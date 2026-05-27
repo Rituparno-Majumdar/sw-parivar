@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "posh-2013",
+    "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "aka": "POSH Act, 2013",
+    "category": "acts",
+    "type": "act",
+    "year": 2013,
+    "summary": "Protects women from sexual harassment at workplaces across India. Requires every organisation with 10+ employees to constitute an Internal Complaints Committee.",
+    "details": "The POSH Act draws its constitutional mandate from Article 14 (right to equality), Article 15 (non-discrimination), and Article 21 (right to life with dignity), and follows the Supreme Court's Vishaka Guidelines (1997). It defines sexual harassment to include unwelcome physical contact, sexual advances, demands for sexual favours, showing pornography, and any other unwelcome physical, verbal, or non-verbal conduct of a sexual nature. Every employer must constitute an Internal Complaints Committee (ICC) at each office/branch. For workplaces with fewer than 10 employees or complaints against the employer itself, a Local Complaints Committee (LCC) at the district level handles complaints. The Act prescribes a three-month timeline for complaint resolution and includes provisions for interim relief (like transfer or leave) for the complainant during the inquiry. Non-compliance attracts penalties up to ₹50,000 for first offence and higher penalties for repeat offences.",
+    "key_points": [
+      "Applies to all government and private workplaces, including organised and unorganised sectors",
+      "Mandatory ICC with at least 50% women members and a woman presiding officer",
+      "Employer must file annual returns with the district officer under the Act"
+    ],
+    "tags": [
+      "women",
+      "workplace",
+      "harassment",
+      "gender justice",
+      "labour rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2104",
+    "constitutional_basis": "Article 14, 15, 21",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "pesa-1996",
+    "title": "Panchayats (Extension to the Scheduled Areas) Act, 1996",
+    "aka": "PESA Act, 1996",
+    "category": "acts",
+    "type": "act",
+    "year": 1996,
+    "summary": "Extends Panchayati Raj institutions to Scheduled Areas in tribal-dominated regions, vesting tribal communities with self-governance powers over natural resources, land, and minor forest produce.",
+    "details": "PESA empowers Gram Sabhas in Scheduled Areas to play a decisive role in approving development plans, selecting beneficiaries, and granting prospecting/mining licences for minor minerals. It mandates that the Gram Sabha or the Panchayat at the appropriate level shall be consulted before acquiring land in Scheduled Areas for development projects or before resettling affected persons. The Act gives tribal communities ownership rights over minor forest produce and recognises their traditional customary rights. State legislatures must ensure that Panchayat laws do not violate the spirit of PESA, and the Act overrides existing state laws on Panchayats in Scheduled Areas. It applies to ten states: Andhra Pradesh, Chhattisgarh, Gujarat, Himachal Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, and Telangana. The Ministry of Panchayati Raj is the nodal ministry for implementation.",
+    "key_points": [
+      "Gram Sabha is the competent authority to safeguard community resources in Scheduled Areas",
+      "Mandatory consultation with Gram Sabha before land acquisition in tribal areas",
+      "Ownership of minor forest produce vests with Gram Sabha and Panchayats"
+    ],
+    "tags": [
+      "tribal rights",
+      "panchayati raj",
+      "forest",
+      "land rights",
+      "self-governance"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1977",
+    "constitutional_basis": "Article 243M, Fifth Schedule",
+    "state": "central",
+    "ministry": "Ministry of Panchayati Raj",
+    "target_group": [
+      "tribal"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "fra-2006",
+    "title": "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006",
+    "aka": "Forest Rights Act, 2006",
+    "category": "acts",
+    "type": "act",
+    "year": 2006,
+    "summary": "Recognises and vests forest rights and occupation in forest land to Scheduled Tribes and other traditional forest dwellers who have resided in forests for generations. Corrects historical injustice from colonial forest laws.",
+    "details": "The FRA grants individual rights to cultivate forest land up to 4 hectares and community rights over nistar (fuel, fodder, grazing), minor forest produce, community forest resources, habitat rights for particularly vulnerable tribal groups (PVTGs), and rights of settlement and conversion of forest villages into revenue villages. Claims are adjudicated by a three-tier structure: the Gram Sabha first passes a resolution, which is verified by the Sub-Divisional Level Committee and approved by the District Level Committee. The Act overrides the Indian Forest Act 1927 and the Wildlife Protection Act 1972 to the extent of any inconsistency concerning forest rights. As of 2023, over 2.5 crore acres of forest land have been recognised under individual and community titles. The Ministry of Tribal Affairs is the nodal agency for implementation. The Act is widely seen as a key tool for both livelihood security and conservation when implemented through community forest management.",
+    "key_points": [
+      "Recognises three categories: individual rights, community rights, and community forest resource rights",
+      "Gram Sabha is the authority to initiate the process of determining rights",
+      "PVTGs (Particularly Vulnerable Tribal Groups) receive additional habitat rights"
+    ],
+    "tags": [
+      "tribal rights",
+      "forest rights",
+      "conservation",
+      "livelihood",
+      "land rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1754",
+    "constitutional_basis": "Article 46 (Directive Principles)",
+    "state": "central",
+    "ministry": "Ministry of Tribal Affairs",
+    "target_group": [
+      "tribal"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "mgnrega-2005",
+    "title": "Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+    "aka": "MGNREGA, NREGA",
+    "category": "acts",
+    "type": "act",
+    "year": 2005,
+    "summary": "Provides a legal guarantee of 100 days of wage employment per year to every rural household whose adult members volunteer to do unskilled manual work. It is the world's largest public works programme.",
+    "details": "MGNREGA is a demand-driven rights-based law that ensures livelihood security in rural areas. If work is not provided within 15 days of application, the applicant is entitled to an unemployment allowance. The Act mandates that at least one-third of the beneficiaries must be women, and wages must be paid on time, indexed to the Consumer Price Index-Agricultural Labour. Works permitted include water conservation, drought-proofing, flood control, rural connectivity, land development, and works on individual land belonging to SC/ST/BPL households. The Act requires social audits by Gram Sabhas to ensure transparency and accountability. The implementation is through Gram Panchayats, with at least 60% of funds spent on wages. MGNREGA has been instrumental in empowering rural women, creating rural assets worth crores, and providing a safety net during agrarian distress and the COVID-19 pandemic.",
+    "key_points": [
+      "Demand-driven — work must be provided within 15 days of application",
+      "100 days per household per financial year, with minimum one-third women participation",
+      "Social audit conducted by the Gram Sabha for transparency"
+    ],
+    "tags": [
+      "employment guarantee",
+      "rural development",
+      "wage employment",
+      "women empowerment",
+      "social audit"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1731",
+    "constitutional_basis": "Article 39(a), 41 (Directive Principles)",
+    "state": "central",
+    "ministry": "Ministry of Rural Development",
+    "target_group": [
+      "workers",
+      "rural"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "juvenile-justice-2015",
+    "title": "Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "aka": "Juvenile Justice Act, JJ Act",
+    "category": "acts",
+    "type": "act",
+    "year": 2015,
+    "summary": "Consolidates and amends the law relating to children in need of care and protection and children in conflict with the law. Provides for rehabilitation through institutional and non-institutional measures.",
+    "details": "The JJ Act replaces the 2000 Act and establishes two primary categories: Children in Conflict with Law (CCL) and Children in Need of Care and Protection (CNCP). For CCL aged 16-18 who commit heinous offences, the Act allows them to be tried as adults after a preliminary assessment by the Juvenile Justice Board. For CNCP, the Act mandates the constitution of Child Welfare Committees (CWC) at the district level. The Act promotes foster care, sponsorship, and after-care programmes as non-institutional care options. It provides for the creation of Juvenile Justice Boards, Special Juvenile Police Units, and observation homes. Adoption procedures are streamlined with the Central Adoption Resource Authority (CARA) as the nodal body. The Act prohibits the placement of children in jail and lays down strict timelines for completing inquiries. The Ministry of Women and Child Development is the nodal ministry.",
+    "key_points": [
+      "Divides children into two categories: in conflict with law (CCL) and in need of care and protection (CNCP)",
+      "Allows trial of 16-18 year olds as adults for heinous offences after preliminary assessment",
+      "Promotes foster care, sponsorship, and after-care over institutionalisation"
+    ],
+    "tags": [
+      "children",
+      "juvenile justice",
+      "child protection",
+      "adoption",
+      "rehabilitation"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2157",
+    "constitutional_basis": "Article 15(3), 39(e), 39(f), 45",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "children"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "rti-2005",
+    "title": "Right to Information Act, 2005",
+    "aka": "RTI Act, 2005",
+    "category": "acts",
+    "type": "act",
+    "year": 2005,
+    "summary": "Empowers citizens to access information under the control of public authorities, promoting transparency and accountability in government functioning.",
+    "details": "The RTI Act mandates that every public authority designate a Central Public Information Officer (CPIO) or State Public Information Officer (SPIO) to provide information to citizens. Information must be provided within 30 days (48 hours for matters concerning life and liberty). Certain categories are exempt from disclosure, including information affecting national security, sovereignty, and intellectual property. The Act establishes the Central Information Commission (CIC) and State Information Commissions (SICs) as appellate bodies. Citizens can file first appeal with a senior officer and a second appeal with the CIC/SIC. The Act imposes a nominal fee of ₹10 for filing applications. It has been one of the most widely used transparency laws in the world, with millions of applications filed annually, exposing corruption and inefficiency in government programmes. The Department of Personnel and Training is the nodal agency.",
+    "key_points": [
+      "Any citizen can request information from a public authority within 30-day timeline",
+      "Exemptions for national security, privacy, commercial confidence, and cabinet papers",
+      "Central/State Information Commissions serve as independent appellate bodies"
+    ],
+    "tags": [
+      "transparency",
+      "accountability",
+      "governance",
+      "anti-corruption",
+      "citizen rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2004",
+    "constitutional_basis": "Article 19(1)(a) (freedom of speech and expression)",
+    "state": "central",
+    "ministry": "Department of Personnel and Training",
+    "target_group": null,
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "rte-2009",
+    "title": "Right of Children to Free and Compulsory Education Act, 2009",
+    "aka": "RTE Act, 2009",
+    "category": "acts",
+    "type": "act",
+    "year": 2009,
+    "summary": "Provides every child aged 6-14 years the right to free and compulsory education in a neighbourhood school. It operationalises the fundamental right to education under Article 21A.",
+    "details": "RTE mandates that no child can be held back, expelled, or required to pass a board examination until the completion of elementary education (Class VIII). A key provision is the 25% reservation of seats in private unaided schools for disadvantaged groups and children from weaker sections, with reimbursement from the state. The Act prescribes Pupil-Teacher Ratio (PTR) norms, school infrastructure standards, and lays down curricular and evaluation guidelines. It prohibits physical punishment, mental harassment, private tuition by teachers, and capitation fees. Schools must obtain a Certificate of Recognition or face penalties. The Act requires at least 25% of teachers to be female and mandates the constitution of School Management Committees (SMC) with 75% parent representation. The National Commission for Protection of Child Rights (NCPCR) monitors the implementation of the Act at the national level.",
+    "key_points": [
+      "Free and compulsory education for all children aged 6-14 years",
+      "25% reservation in private unaided schools for disadvantaged children",
+      "No detention policy — no child can be expelled or held back till Class VIII"
+    ],
+    "tags": [
+      "education",
+      "children",
+      "right to education",
+      "inclusive education",
+      "child rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2044",
+    "constitutional_basis": "Article 21A",
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "children"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "rpwd-2016",
+    "title": "Rights of Persons with Disabilities Act, 2016",
+    "aka": "RPwD Act, 2016",
+    "category": "acts",
+    "type": "act",
+    "year": 2016,
+    "summary": "Replaces the 1995 PwD Act and guarantees rights, protections, and entitlements to persons with disabilities across 21 recognised disability conditions. Aligns India with the UNCRPD.",
+    "details": "The RPwD Act expands the definition of disability from 7 to 21 conditions, including intellectual disability, mental illness, autism, cerebral palsy, haemophilia, thalassemia, sickle cell disease, and specific learning disabilities. It mandates 4% reservation in government jobs and 5% reservation in higher education institutions. The Act provides for free education for children with disabilities from 6-18 years (benefit from RTE is extended). It establishes the office of the Chief Commissioner for Persons with Disabilities at the national level and State Commissioners at the state level. Accessibility standards are mandated for all public buildings, transport, and information and communication technology. The Act prohibits discrimination on the grounds of disability and provides for penalties and punishment for contravention. The Ministry of Social Justice and Empowerment is the nodal ministry.",
+    "key_points": [
+      "Disability expanded from 7 to 21 recognised conditions including mental illness and thalassemia",
+      "4% reservation in government jobs and 5% in higher education institutions",
+      "Mandatory accessibility standards for public infrastructure and ICT"
+    ],
+    "tags": [
+      "disability rights",
+      "inclusion",
+      "accessibility",
+      "social justice",
+      "UNCRPD"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2171",
+    "constitutional_basis": "Article 14, 15, 16, 21, 41",
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "persons with disabilities"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "domestic-violence-2005",
+    "title": "Protection of Women from Domestic Violence Act, 2005",
+    "aka": "Domestic Violence Act, DV Act",
+    "category": "acts",
+    "type": "act",
+    "year": 2005,
+    "summary": "Provides a civil remedy to women facing domestic violence, including physical, emotional, sexual, verbal, and economic abuse. Covers women in live-in relationships and marriages.",
+    "details": "The DV Act is a civil law (not criminal) designed to provide immediate relief rather than criminal punishment. It defines domestic violence broadly to include physical abuse, sexual abuse, verbal/emotional abuse, and economic abuse (denial of financial resources, prohibiting employment, dispossession of household assets). Protection Officers are appointed by the state to assist victims in filing complaints and obtaining relief. The Act allows the Magistrate to pass Protection Orders, Residence Orders (preventing the accused from the shared household), Custody Orders for children, and Monetary Relief for medical expenses and loss of earnings. A key feature is the inclusion of female victims in live-in relationships and relationships through adoption. The Act provides for the appointment of service providers (NGOs) to assist victims. Violation of a protection order is a cognisable and non-bailable offence. The Ministry of Women and Child Development is the nodal ministry.",
+    "key_points": [
+      "Civil law covering physical, sexual, verbal, emotional, and economic abuse",
+      "Covers wives, mothers, sisters, daughters, and women in live-in relationships",
+      "Protection orders, residence orders, and monetary relief through Magistrate"
+    ],
+    "tags": [
+      "domestic violence",
+      "women",
+      "gender justice",
+      "civil remedy",
+      "protection"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1753",
+    "constitutional_basis": "Article 14, 15(3), 21",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "sc-st-atrocities-1989",
+    "title": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+    "aka": "SC/ST Atrocities Act, POA Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1989,
+    "summary": "Prevents the commission of offences and atrocities against Scheduled Castes and Scheduled Tribes and establishes special courts for the trial of such offences.",
+    "details": "The Act identifies specific acts as atrocities, including forcing SC/ST persons to drink or eat inedible substances, dumping excreta on them, forcibly occupying their land, imposing forced labour, and sexually exploiting SC/ST women. It provides for exclusive Special Courts to ensure speedy trial and Special Public Prosecutors. The Act recognises the caste-based nature of certain crimes and establishes the presumption that the accused is guilty until proven otherwise (reverse burden of proof) for certain offences. It provides for compensation and rehabilitation for victims. The 2015 Amendment expanded the list of atrocities, added new offences, and mandated the establishment of Exclusive Special Courts. The Act also covers atrocities committed by public servants and requires the appointment of nodal officers at each police station in Scheduled Areas. The Ministry of Social Justice and Empowerment is the nodal ministry.",
+    "key_points": [
+      "List of 22+ specific caste-based atrocity offences with stringent punishment",
+      "Special Courts for speedy trial and Special Public Prosecutors",
+      "Reverse burden of proof — presumption of guilt for certain offences"
+    ],
+    "tags": [
+      "SC/ST",
+      "atrocities",
+      "caste discrimination",
+      "social justice",
+      "prevention"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1940",
+    "constitutional_basis": "Article 14, 15, 17, 46",
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "SC",
+      "ST"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "nfsa-2013",
+    "title": "National Food Security Act, 2013",
+    "aka": "NFSA, Food Security Act",
+    "category": "acts",
+    "type": "act",
+    "year": 2013,
+    "summary": "Provides a legal right to subsidised food grains to approximately two-thirds of India's population. Operates through the Targeted Public Distribution System (TPDS) and maternity entitlements.",
+    "details": "NFSA entitles up to 75% of the rural population and 50% of the urban population to receive 5 kg of foodgrains per person per month at highly subsidised prices (₹3/kg rice, ₹2/kg wheat, ₹1/kg coarse grains). Antyodaya Anna Yojana (AAY) households receive 35 kg per family per month. The Act also provides for nutritional support to pregnant women and lactating mothers (maternity benefit of at least ₹6,000) and children aged 6 months to 14 years through the Integrated Child Development Services (ICDS) and Mid-Day Meal Scheme. It establishes the State Food Commissions and District Grievance Redressal Officers to handle complaints. The TPDS is the primary delivery mechanism, and Aadhaar seeding is promoted for transparency. The Act has been crucial in reducing hunger and malnutrition, though implementation challenges persist in leakages and exclusion errors. The Ministry of Consumer Affairs, Food and Public Distribution is the nodal ministry.",
+    "key_points": [
+      "Covers 75% rural and 50% urban population with subsidised food grains",
+      "Maternity benefit of at least ₹6,000 under Pradhan Mantri Matru Vandana Yojana",
+      "Nutritional support through ICDS and Mid-Day Meal for children under 14"
+    ],
+    "tags": [
+      "food security",
+      "nutrition",
+      "TPDS",
+      "hunger",
+      "public distribution"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/4917",
+    "constitutional_basis": "Article 21, 39(a), 47",
+    "state": "central",
+    "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+    "target_group": [
+      "rural",
+      "urban poor"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "child-labour-1986",
+    "title": "Child Labour (Prohibition and Regulation) Act, 1986",
+    "aka": "Child Labour Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1986,
+    "summary": "Prohibits the employment of children below 14 years in all occupations and processes, and regulates adolescent labour (14-18 years) in hazardous industries.",
+    "details": "The Act was substantially amended in 2016 (Child Labour Prohibition and Regulation Amendment Act) to completely prohibit employment of children under 14 in all occupations and processes. Adolescents (14-18 years) are barred from working in hazardous occupations listed in the Schedule, which includes mines, inflammable substances, and hazardous manufacturing processes. The Act permits children to help their family or family enterprise after school hours and during vacations, provided it does not affect their education. It also allows children to work as artists in entertainment (films, TV, sports) under strict conditions. Employers violating the Act face imprisonment of 3 months to 2 years and/or a fine of ₹10,000 to ₹20,000. The Act also regulates working hours, rest periods, and weekly holidays for adolescents. The Ministry of Labour and Employment is the nodal ministry.",
+    "key_points": [
+      "Complete prohibition of child labour below 14 years in all occupations",
+      "Adolescents (14-18) prohibited from hazardous occupations listed in the Schedule",
+      "Children may work in family enterprises after school hours — an exemption"
+    ],
+    "tags": [
+      "child labour",
+      "children",
+      "labour rights",
+      "education",
+      "protection"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1858",
+    "constitutional_basis": "Article 24, 39(e), 39(f)",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "children"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "bonded-labour-1976",
+    "title": "Bonded Labour System (Abolition) Act, 1976",
+    "aka": "Bonded Labour Abolition Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1976,
+    "summary": "Abolishes the bonded labour system and frees all bonded labourers. Provides for the extinguishment of debts, forfeiture of property obtained in lieu of bonded labour, and rehabilitation of freed labourers.",
+    "details": "The Act declares the bonded labour system a criminal offence and all bonded debts are deemed to be extinguished and are not recoverable. Any property or mortgage taken in connection with bonded labour is forfeited to the state. The Act creates a framework for identifying, releasing, and rehabilitating bonded labourers through Vigilance Committees at the district and sub-divisional levels. Those who compel a person to render bonded labour face imprisonment of up to 3 years and a fine of up to ₹2,000. The bonded labour system has historically been linked to caste hierarchies and debt bondage in agricultural and manual labour contexts. The Act also provides that freed bonded labourers cannot be evicted from their homestead or residential premises. The Ministry of Labour and Employment is the nodal ministry for implementation. Despite the law, bonded labour persists as a hidden practice, and the Supreme Court in 2022 reiterated the need for effective identification and rehabilitation.",
+    "key_points": [
+      "All bonded debts are extinguished and not recoverable",
+      "Property obtained in connection with bonded labour forfeited to the state",
+      "Vigilance Committees at district level to identify and rehabilitate bonded labourers"
+    ],
+    "tags": [
+      "bonded labour",
+      "forced labour",
+      "debt bondage",
+      "social justice",
+      "rehabilitation"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1751",
+    "constitutional_basis": "Article 23 (prohibition of forced labour), 21",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "workers"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "child-marriage-2006",
+    "title": "Prohibition of Child Marriage Act, 2006",
+    "aka": "Child Marriage Prohibition Act",
+    "category": "acts",
+    "type": "act",
+    "year": 2006,
+    "summary": "Prohibits marriage of children below the legal age (18 for women, 21 for men). Replaces the earlier Child Marriage Restraint Act 1929 and makes child marriage voidable.",
+    "details": "The Act makes child marriage voidable at the option of the contracting party who was a child at the time of marriage — they can petition within two years of attaining majority to annul the marriage. The Act provides for maintenance and residence orders for the female party and custody of children. Anyone performing, conducting, directing, or participating in a child marriage can be punished with rigorous imprisonment of up to 2 years and a fine of up to ₹1,00,000. The Act empowers the court to issue injunctions to prevent child marriages and appoints Child Marriage Prohibition Officers (CMPOs) at the state level. In 2021, the Prohibition of Child Marriage (Amendment) Bill was introduced seeking to raise the legal age for women from 18 to 21, but it has not yet been passed. The Ministry of Women and Child Development is the nodal ministry. Child marriage remains prevalent in rural India, driven by poverty and patriarchal norms.",
+    "key_points": [
+      "Child marriage is voidable at the option of the child who was married",
+      "Fine of up to ₹1,00,000 and imprisonment for up to 2 years for offenders",
+      "CMPOs appointed at state level to prevent and track child marriages"
+    ],
+    "tags": [
+      "child marriage",
+      "women",
+      "children",
+      "protection",
+      "gender justice"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1837",
+    "constitutional_basis": "Article 15(3), 21, 39(e), 39(f)",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "children",
+      "women"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "mtp-1971",
+    "title": "Medical Termination of Pregnancy Act, 1971",
+    "aka": "MTP Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1971,
+    "summary": "Provides a legal framework for terminating pregnancies safely under specified conditions by registered medical practitioners. Last amended in 2021 to expand access and limit restrictions.",
+    "details": "The MTP permits termination of pregnancy up to 20 weeks on the advice of one registered medical practitioner. The 2021 Amendment extended this to 24 weeks for special categories (survivors of rape, minors, vulnerable women, and women with disabilities). Beyond 24 weeks, termination requires the approval of a Medical Board constituted in each state. The Act specifies that pregnancy can be terminated if it poses a risk to the physical or mental health of the woman, if there is a substantial risk of congenital abnormality, or if the pregnancy results from rape or contraceptive failure. The opinion of the medical practitioner must be formed in good faith. The Act also protects the privacy of the woman seeking termination. Abortions are legal only when performed by an authorised RMP at an approved facility. The Act does not apply to termination of pregnancy after 24 weeks unless a Medical Board certifies that continuation would involve a grave risk to life or grave injury to health.",
+    "key_points": [
+      "Termination up to 20 weeks by one doctor; up to 24 weeks for special categories",
+      "Beyond 24 weeks requires Medical Board approval",
+      "Amended in 2021 to include survivors of rape, minors, and women with disabilities"
+    ],
+    "tags": [
+      "reproductive rights",
+      "women",
+      "health",
+      "medical termination",
+      "gender justice"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1570",
+    "constitutional_basis": "Article 21 (right to life and privacy)",
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "dowry-prohibition-1961",
+    "title": "Dowry Prohibition Act, 1961",
+    "aka": "Dowry Prohibition Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1961,
+    "summary": "Prohibits the giving, taking, or demanding of dowry in connection with marriage. Establishes offences and penalties for dowry-related transactions.",
+    "details": "dowry demands constitute a cognisable offence, meaning police can arrest without a warrant. Penalties include imprisonment of 5 years to life and a fine of at least ₹15,000. The presumption in law is that the death occurred within 7 years of marriage and that the husband or relative subjected her to cruelty or harassment shortly before death — the burden shifts to the accused to prove otherwise. Section 304B also covers cases of dowry deaths even if the woman did not actually commit suicide but died in suspicious circumstances. The section works alongside the Dowry Prohibition Act 1961 and the Protection of Women from Domestic Violence Act 2005. Police are required to investigate all unnatural deaths of married women within 7 years of marriage. The National Crime Records Bureau (NCRB) tracks dowry deaths annually.",
+    "key_points": [
+      "Death within 7 years of marriage in suspicious circumstances may be dowry death",
+      "Husband/relative presumed guilty if cruelty or harassment before death is proven",
+      "Offence cognisable, non-bailable, and non-compoundable"
+    ],
+    "tags": [
+      "dowry",
+      "women",
+      "marriage",
+      "violence",
+      "criminal law"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1519",
+    "constitutional_basis": "Article 14, 15(3), 21",
+    "state": "central",
+    "ministry": null,
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "mental-healthcare-2017",
+    "title": "Mental Healthcare Act, 2017",
+    "aka": "MHCA, Mental Health Act, 2017",
+    "category": "acts",
+    "type": "act",
+    "year": 2017,
+    "summary": "Provides a rights-based framework for mental healthcare in India, guaranteeing access to mental health services and decriminalising suicide. Aligns India with the UNCRPD.",
+    "details": "The MHCA 2017 replaces the Mental Health Act 1987 and defines mental illness as a substantial disorder of mood, thought, perception, orientation, or memory that affects mental functioning. A landmark provision is Section 115, which decriminalises attempted suicide — a person attempting suicide is presumed to be suffering from severe stress and shall not be prosecuted under the Indian Penal Code. The Act provides for advance directives, allowing individuals to declare their preferred treatment for future mental health episodes. Every person has the right to access mental health services from government-funded facilities, including free medicines, diagnostic services, and community-based rehabilitation. The Central and State Mental Health Authorities are established to regulate and monitor services. The Act mandates insurance parity — mental health conditions must be treated on par with physical illnesses by insurance companies. Electroconvulsive therapy without anaesthesia and psychosurgery are banned except with strict safeguards.",
+    "key_points": [
+      "Decriminalises attempted suicide — person is presumed to be under severe stress",
+      "Right to free mental healthcare from government facilities including medicines",
+      "Advance directives and nominated representatives for treatment decisions"
+    ],
+    "tags": [
+      "mental health",
+      "healthcare",
+      "disability rights",
+      "suicide prevention",
+      "human rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2241",
+    "constitutional_basis": "Article 14, 19, 21",
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "persons with mental illness"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "transgender-persons-2019",
+    "title": "Transgender Persons (Protection of Rights) Act, 2019",
+    "aka": "Transgender Act, 2019",
+    "category": "acts",
+    "type": "act",
+    "year": 2019,
+    "summary": "Prohibits discrimination against transgender persons in education, employment, healthcare, and public services. Provides for self-perceived gender identity through a certificate process.",
+    "details": "The Act defines a transgender person as one whose gender does not match the gender assigned at birth, including trans-men, trans-women, persons with intersex variations, and genderqueers. It prohibits discrimination in education, employment, healthcare, access to public goods and services, and right to movement. A transgender person can apply for a certificate of identity as a transgender person from the District Magistrate, and may also apply for a revised certificate indicating change of gender (including to male or female) after undergoing surgery or by any other notified procedure. The Act provides for a National Council for Transgender Persons as a policy and advisory body. It mandates that every educational institution and public service provider must take steps to ensure non-discrimination. Offences under the Act like forced labour, denial of access to public places, and sexual abuse are punishable with imprisonment of 6 months to 2 years and a fine. The Ministry of Social Justice and Empowerment is the nodal ministry.",
+    "key_points": [
+      "Prohibits discrimination in education, employment, healthcare, and public services",
+      "Certificate of identity from District Magistrate with right to revise gender mark",
+      "National Council for Transgender Persons for policy and grievance redress"
+    ],
+    "tags": [
+      "transgender",
+      "LGBTQIA+",
+      "discrimination",
+      "gender identity",
+      "human rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/5136",
+    "constitutional_basis": "Article 14, 15, 16, 19(1)(a), 21",
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "transgender persons"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "equal-remuneration-1976",
+    "title": "Equal Remuneration Act, 1976",
+    "aka": "Equal Remuneration Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1976,
+    "summary": "Mandates equal pay for equal work for men and women in the same or similar nature of work. Prohibits gender-based wage discrimination in employment.",
+    "details": "The Act gives effect to the constitutional principle of equal pay for equal work under Article 39(d). It requires employers to pay equal remuneration to men and women workers for the same work or work of similar nature, and prohibits discrimination in recruitment while making employment decisions on the basis of sex. The Act applies to all types of employment across public and private sectors, including organised and unorganised sectors. It establishes the power of the government to appoint authorities for hearing and deciding complaints. The employer must maintain a register of workers and the wages paid, and the Act provides for the inspection of records. Non-compliance can result in fines and imprisonment. The Act was subsumed and consolidated into the Code on Wages 2019 (which came into force in 2021), though the substantive right to equal remuneration continues under the new Code. The Ministry of Labour and Employment is the nodal ministry.",
+    "key_points": [
+      "Equal pay for men and women for same or similar nature of work",
+      "Prohibits discrimination in recruitment on grounds of sex",
+      "Subsumed into the Code on Wages 2019 but substantive right continues"
+    ],
+    "tags": [
+      "equal pay",
+      "gender equality",
+      "labour rights",
+      "women",
+      "workplace"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1776",
+    "constitutional_basis": "Article 39(d), 14, 15",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "minimum-wages-1948",
+    "title": "Minimum Wages Act, 1948",
+    "aka": "Minimum Wages Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1948,
+    "summary": "Establishes a legal floor for wages in scheduled employments to prevent exploitation of workers, especially in the unorganised sector. Empowers governments to fix and revise minimum wage rates.",
+    "details": "The Act covers workers in scheduled employments that are listed in the Schedule (adding new employments by notification), including agriculture, construction, mining, plantations, and manufacturing. Both the central and state governments are empowered to fix, review, and revise minimum wage rates at intervals not exceeding five years. The Act lays down three components of minimum wage: basic wage, cost-of-living allowance (dearness allowance), and special allowance. The wages can be fixed by time rate, piece rate, or a combination. Employers paying less than the minimum wage face imprisonment of up to 6 months and/or a fine. The Act requires employers to maintain registers of wages, attendance, and overtime. The Act has been subsumed into the Code on Wages 2019, which consolidates four wage-related laws. Despite the legal framework, millions of workers in India still receive wages below the minimum due to weak enforcement. The Ministry of Labour and Employment is the nodal ministry.",
+    "key_points": [
+      "Covers scheduled employments across agriculture, construction, mining, and manufacturing",
+      "Both central and state governments can fix and revise minimum wages",
+      "Subsumed into the Code on Wages 2019 but substantive protections remain"
+    ],
+    "tags": [
+      "minimum wage",
+      "labour rights",
+      "unorganised sector",
+      "wage protection",
+      "social justice"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2401",
+    "constitutional_basis": "Article 23, 39(a), 39(d), 43",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "workers"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "factories-act-1948",
+    "title": "Factories Act, 1948",
+    "aka": "Factories Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1948,
+    "summary": "Regulates working conditions, health, safety, and welfare of workers employed in factories. Applies to premises with 10 or more workers (with power) or 20+ workers (without power).",
+    "details": "The Act consolidates and amends the law regulating labour in factories and applies to premises where a manufacturing process is carried out with the aid of power and 10 or more workers, or without power and 20 or more workers. It lays down detailed provisions for health (cleanliness, ventilation, lighting, drinking water), safety (fencing of machinery, hoists, lifts, fire safety), and welfare (washing facilities, canteens, rest rooms, crèches for children). Working hours are limited to 48 hours per week, with a maximum of 9 hours per day, and overtime paid at double the ordinary rate. Women cannot be employed between 7 PM and 6 AM, and children between 14-18 years can only work with a certificate of fitness. The Act mandates the appointment of a Chief Inspector of Factories, and occupiers must obtain approval of plans before constructing factories. The Act has been subsumed into the Occupational Safety, Health and Working Conditions Code 2020.",
+    "key_points": [
+      "Covers health, safety, and welfare of factory workers through detailed standards",
+      "48-hour work week, overtime at double rate, crèche for children",
+      "Subsumed into Occupational Safety, Health and Working Conditions Code 2020"
+    ],
+    "tags": [
+      "labour rights",
+      "factories",
+      "safety",
+      "working conditions",
+      "industrial relations"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2322",
+    "constitutional_basis": "Article 39(e), 42, 43",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "workers"
+    ],
+    "benefit_type": "regulatory"
+  },
+  {
+    "id": "maternity-benefit-1961",
+    "title": "Maternity Benefit Act, 1961",
+    "aka": "Maternity Benefit Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1961,
+    "summary": "Provides maternity leave and benefits to women employees in establishments with 10 or more employees. Amended in 2017 to extend paid leave to 26 weeks and mandate crèche facilities.",
+    "details": "The Act originally provided 12 weeks of maternity leave; the 2017 Amendment expanded it to 26 weeks of paid leave for the first two children (12 weeks for third and subsequent children). It also introduced 12 weeks of leave for commissioning mothers and adopting mothers (from the date of adoption). All establishments with 50+ employees must provide crèche facilities within a prescribed distance, and women must be allowed four visits per day to the crèche. The employer is prohibited from discharging or discriminating against a woman on account of her pregnancy, maternity leave, or any related illness. The benefit is paid at the rate of the woman's average daily wage for the period of absence. Medical bonus of ₹3,500 is payable if the employer provides no free medical care. The Act applies to mines, factories, plantations, shops, and establishments with 10+ employees. The Ministry of Labour and Employment is the nodal ministry.",
+    "key_points": [
+      "26 weeks of paid leave for first two children; 12 weeks for third child",
+      "Crèche mandatory for establishments with 50+ employees with 4 daily visits",
+      "12 weeks leave for commissioning and adopting mothers"
+    ],
+    "tags": [
+      "maternity",
+      "women",
+      "labour rights",
+      "childcare",
+      "workplace rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1526",
+    "constitutional_basis": "Article 15(3), 39(e), 42",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "protection-civil-rights-1955",
+    "title": "Protection of Civil Rights Act, 1955",
+    "aka": "PCR Act, 1955",
+    "category": "acts",
+    "type": "act",
+    "year": 1955,
+    "summary": "Prescribes punishment for the practice of untouchability in any form, giving effect to Article 17 of the Constitution which abolishes untouchability.",
+    "details": "The Act (originally the Untouchability Offences Act 1955, renamed in 1976) makes the enforcement of any disability arising out of untouchability a criminal offence punishable with imprisonment up to 6 months and/or a fine of up to ₹500. It prohibits preventing any person from entering places of worship, taking water from sacred tanks, accessing shops, hotels, and places of public entertainment, and practising any profession or occupation. It also prohibits refusing admission to hospitals and educational institutions on grounds of untouchability. The Act puts the burden of proof on the accused in certain cases. Offences under the Act are cognisable and compoundable. The Act works alongside the SC/ST Atrocities Act 1989 for more serious caste-based offences. Despite legal abolition, untouchability continues to be practised in various forms in rural India, and the Act has seen limited enforcement. The Ministry of Social Justice and Empowerment is the nodal ministry.",
+    "key_points": [
+      "Gives effect to Article 17 which abolishes untouchability",
+      "Criminalises preventing access to temples, shops, hospitals, and schools",
+      "Offences are cognisable; burden of proof on accused in certain cases"
+    ],
+    "tags": [
+      "untouchability",
+      "caste discrimination",
+      "civil rights",
+      "social justice",
+      "constitutional law"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1488",
+    "constitutional_basis": "Article 17",
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "SC"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "legal-services-authorities-1987",
+    "title": "Legal Services Authorities Act, 1987",
+    "aka": "Lok Adalat Act, Legal Aid Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1987,
+    "summary": "Establishes a statutory framework for providing free legal aid to eligible persons and for organising Lok Adalats to promote alternative dispute resolution.",
+    "details": "The Act establishes the National Legal Services Authority (NALSA) at the national level, State Legal Services Authorities (SLSAs) at the state level, District Legal Services Authorities (DLSAs), and Taluk Legal Services Committees. Persons entitled to free legal aid include women, children, SC/ST, victims of human trafficking, industrial workmen, persons with disabilities, persons with annual income below a specified threshold, and victims of mass disasters or caste violence. Services provided include free legal representation, legal advice, and help in drafting legal documents. The Act also provides for the organisation of Lok Adalats (people's courts) which settle cases on a conciliatory basis without litigation stress. A Lok Adalat award is deemed to be a decree of a civil court and is final and binding on all parties. Permanent Lok Adalats handle public utility services cases. The Act has been instrumental in reducing court backlog through alternative dispute resolution. The Ministry of Law and Justice is the nodal ministry.",
+    "key_points": [
+      "Free legal aid to women, children, SC/ST, victims of trafficking, and low-income persons",
+      "Lok Adalats for conciliatory settlement — award is final and binding",
+      "Permanent Lok Adalats for public utility services like electricity, water, transport"
+    ],
+    "tags": [
+      "legal aid",
+      "Lok Adalat",
+      "access to justice",
+      "ADR",
+      "social justice"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1833",
+    "constitutional_basis": "Article 39A",
+    "state": "central",
+    "ministry": "Ministry of Law and Justice",
+    "target_group": [
+      "women",
+      "children",
+      "SC",
+      "ST"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "lokpal-2013",
+    "title": "The Lokpal and Lokayuktas Act, 2013",
+    "aka": "Lokpal Act",
+    "category": "acts",
+    "type": "act",
+    "year": 2013,
+    "summary": "Establishes the Lokpal at the central level and Lokayuktas at the state level to inquire into allegations of corruption against public functionaries, including the Prime Minister and MPs.",
+    "details": "The Act creates a statutory anti-corruption ombudsman: the Lokpal consists of a Chairperson and up to 8 members (50% judicial members, at least 50% from SC/ST/OBC/women/minorities). The Lokpal can investigate allegations of corruption against the Prime Minister (with certain safeguards), Union Ministers, Members of Parliament, and Group A/B/C/D officers of the central government. The selection committee includes the PM, Speaker, Leader of Opposition, Chief Justice of India, and an eminent jurist. The Act also mandates the establishment of Lokayuktas in states within one year. A preliminary inquiry is conducted before a full investigation, and the Lokpal can attach assets acquired through corruption. The Act provides for a prosecution wing headed by a Director of Prosecution. The Jan Lokpal movement led by Anna Hazare in 2011 was a major catalyst for the law. The Act has been criticised for being weaker than the original Jan Lokpal Bill, primarily because it does not cover the lower bureaucracy without complaint.",
+    "key_points": [
+      "Lokpal can investigate PM (with safeguards), Ministers, MPs, and Group A-D officers",
+      "50% of members from judicial background and 50% from SC/ST/OBC/women/minorities",
+      "States must establish Lokayuktas within one year of the Act"
+    ],
+    "tags": [
+      "anti-corruption",
+      "ombudsman",
+      "governance",
+      "accountability",
+      "Lokpal"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/6409",
+    "constitutional_basis": "Article 14, 311",
+    "state": "central",
+    "ministry": null,
+    "target_group": null,
+    "benefit_type": "regulatory"
+  },
+  {
+    "id": "pocso-2012",
+    "title": "Protection of Children from Sexual Offences Act, 2012",
+    "aka": "POCSO Act, 2012",
+    "category": "acts",
+    "type": "act",
+    "year": 2012,
+    "summary": "Comprehensive law to protect children from sexual assault, harassment, and pornography. Establishes special courts and mandates child-friendly procedures for trial.",
+    "details": "POCSO was enacted in 2012 to address the growing incidence of sexual offences against children. The Act defines a child as any person below 18 years and categorises offences into: penetrative sexual assault, aggravated penetrative sexual assault, sexual assault, aggravated sexual assault, sexual harassment, and using a child for pornographic purposes. It mandates the establishment of Special Courts for speedy trial and prescribes that the trial be completed within one year. The Act incorporates child-friendly procedures such as recording the child's statement at their residence, use of screens, and not disclosing the child's identity. It also makes the failure to report an offence punishable. The Act was amended in 2019 to introduce the death penalty for aggravated penetrative sexual assault. The Ministry of Women and Child Development is the nodal ministry for implementation.",
+    "key_points": [
+      "Defines 6 categories of sexual offences against children",
+      "Special Courts with one-year trial timeline",
+      "2019 Amendment introduced death penalty for aggravated offences",
+      "Child-friendly procedures for recording statements and evidence"
+    ],
+    "tags": [
+      "child protection",
+      "sexual offences",
+      "POCSO",
+      "children",
+      "special courts"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/2068",
+    "constitutional_basis": "Article 15(3), 21, 39(e), 39(f)",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "children"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "national-trust-1999",
+    "title": "National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999",
+    "aka": "National Trust Act, 1999",
+    "category": "acts",
+    "type": "act",
+    "year": 1999,
+    "summary": "Establishes the National Trust as a statutory body to enable persons with autism, cerebral palsy, mental retardation, and multiple disabilities to live independently and participate fully in society.",
+    "details": "The National Trust Act creates a statutory body to ensure that persons with the four specified disabilities have access to care, protection, and guardianship. The Trust enables legal guardianship for persons with disabilities when family members are unable to care for them. It also promotes residential hostels, day care centres, and vocational training facilities. The Trust works through Local Level Committees (LLCs) that authorise guardianship certificates. The Act also provides for the constitution of a Board of Trustees with representation from government, NGOs, and experts. The Ministry of Social Justice and Empowerment is the nodal ministry. The Act is complementary to the RPwD Act 2016 and provides a specific mechanism for guardianship and care for persons with severe disabilities.",
+    "key_points": [
+      "Guardianship certificates through Local Level Committees",
+      "Focus on four specific disability conditions",
+      "Promotes independent living and community-based rehabilitation",
+      "Board of Trustees with multi-stakeholder representation"
+    ],
+    "tags": [
+      "disability",
+      "guardianship",
+      "autism",
+      "cerebral palsy",
+      "National Trust",
+      "care"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1908",
+    "constitutional_basis": "Article 14, 21, 41",
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "persons with disabilities"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "senior-citizens-2007",
+    "title": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+    "aka": "Senior Citizens Act, 2007",
+    "category": "acts",
+    "type": "act",
+    "year": 2007,
+    "summary": "Provides for maintenance of parents and senior citizens by their children or legal heirs, and establishes tribunals for speedy resolution of maintenance claims.",
+    "details": "The Act makes it a legal obligation for children and legal heirs to maintain their parents and senior citizens, with a monthly maintenance allowance of up to ₹10,000. Parents who are unable to maintain themselves can file a claim before the Maintenance Tribunal. The Act also provides for the establishment of old age homes, protection of life and property of senior citizens, and medical care. State governments must set up Maintenance Tribunals and Appellate Tribunals in every district. The Act empowers the government to prescribe procedures for the referral of abandoned senior citizens to old age homes. It also penalises children who abandon their parents with imprisonment up to 3 months and a fine of up to ₹5,000. The Ministry of Social Justice and Empowerment is the nodal ministry.",
+    "key_points": [
+      "Children legally obligated to maintain parents (up to ₹10,000/month)",
+      "District Maintenance Tribunals for speedy claims",
+      "State governments to establish old age homes",
+      "Abandonment of parents is a punishable offence"
+    ],
+    "tags": [
+      "senior citizens",
+      "maintenance",
+      "parents",
+      "old age",
+      "social welfare"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1864",
+    "constitutional_basis": "Article 21, 41, 47",
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "senior citizens"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "land-acquisition-2013",
+    "title": "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "aka": "LAAR Act, Land Acquisition Act, 2013",
+    "category": "acts",
+    "type": "act",
+    "year": 2013,
+    "summary": "Provides a fair, transparent, and humane framework for land acquisition, ensuring compensation up to four times the market value and mandatory rehabilitation and resettlement for affected families.",
+    "details": "The LAAR Act replaced the Land Acquisition Act, 1894 and is a landmark social welfare legislation that addresses the human cost of land acquisition. It mandates Social Impact Assessment (SIA) before any acquisition, requiring consent of 80% of affected families for private projects and 70% for public-private partnerships. Compensation is set at up to four times the market value in rural areas and two times in urban areas. The Act entitles affected families to rehabilitation and resettlement (R&R) including employment, housing, and monthly subsistence allowance. It specifically protects Scheduled Tribes and Scheduled Castes through additional safeguards. The Act does not apply to acquisitions under 13 specified Acts (exempted through amendments). The Ministry of Rural Development is the nodal ministry.",
+    "key_points": [
+      "Social Impact Assessment mandatory before acquisition",
+      "Consent of 70-80% affected families required",
+      "Compensation up to 4x market value in rural areas",
+      "Comprehensive R&R entitlements including employment"
+    ],
+    "tags": [
+      "land acquisition",
+      "rehabilitation",
+      "resettlement",
+      "compensation",
+      "tribal rights"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/4916",
+    "constitutional_basis": "Article 21, 38, 39(b), 46, 300A",
+    "state": "central",
+    "ministry": "Ministry of Rural Development",
+    "target_group": [
+      "tribal",
+      "rural"
+    ],
+    "benefit_type": "entitlement"
+  },
+  {
+    "id": "environment-protection-1986",
+    "title": "Environment Protection Act, 1986",
+    "aka": "EPA, Environment Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1986,
+    "summary": "Umbrella legislation for the protection and improvement of the environment, empowering the central government to regulate environmental pollution and set standards.",
+    "details": "The EPA was enacted in the wake of the Bhopal Gas Tragedy (1984) as comprehensive umbrella legislation to coordinate environmental regulation under existing laws. It empowers the central government to take measures for protecting and improving the environment, including setting standards for emissions and effluents, regulating industrial locations, and managing hazardous substances. The Act establishes the mechanism for Environmental Impact Assessment (EIA) and gives the government power to enter and inspect any industrial unit. Violations can result in imprisonment up to 5 years and fines up to ₹1 lakh per day. The Act also gives the central government the power to issue directions to close, regulate, or prohibit any industry, operation, or process. The National Green Tribunal (NGT) handles appeals under the Act. The Ministry of Environment, Forest and Climate Change is the nodal ministry.",
+    "key_points": [
+      "Umbrella legislation for environmental protection",
+      "Central government empowered to set emission and effluent standards",
+      "Environmental Impact Assessment for industrial projects",
+      "Penalties up to 5 years imprisonment and ₹1 lakh per day"
+    ],
+    "tags": [
+      "environment",
+      "pollution control",
+      "EIA",
+      "Bhopal",
+      "sustainable development"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1867",
+    "constitutional_basis": "Article 48A, 51A(g), 21",
+    "state": "central",
+    "ministry": "Ministry of Environment, Forest and Climate Change",
+    "target_group": null,
+    "benefit_type": "regulatory"
+  },
+  {
+    "id": "contract-labour-1970",
+    "title": "Contract Labour (Regulation and Abolition) Act, 1970",
+    "aka": "Contract Labour Act, CLRA",
+    "category": "acts",
+    "type": "act",
+    "year": 1970,
+    "summary": "Regulates the employment of contract labour in establishments and provides for its abolition in certain circumstances. Mandates welfare amenities and licensing of contractors.",
+    "details": "The Act applies to establishments employing 20 or more contract labourers and contractors employing 20 or more workers. It requires every principal employer to register their establishment and every contractor to obtain a licence. The Act mandates provision of welfare amenities including canteens, rest rooms, drinking water, and first-aid facilities. Contractors are required to pay wages in the presence of a representative of the principal employer. The government can prohibit contract labour in any process, operation, or work if it is perennial, necessary, or incidental to the work of the establishment. The principal employer is made liable for payment of wages if the contractor fails to pay. The Act has been subsumed into the Occupational Safety, Health and Working Conditions Code, 2020. The Ministry of Labour and Employment is the nodal ministry.",
+    "key_points": [
+      "Registration of establishments and licensing of contractors",
+      "Welfare amenities: canteen, rest rooms, drinking water, first-aid",
+      "Government can abolish contract labour in perennial work",
+      "Principal employer liable for wages if contractor defaults"
+    ],
+    "tags": [
+      "contract labour",
+      "labour rights",
+      "contractor",
+      "welfare",
+      "unorganised sector"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1722",
+    "constitutional_basis": "Article 23, 39(a), 39(d), 42, 43",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "workers"
+    ],
+    "benefit_type": "regulatory"
+  },
+  {
+    "id": "migrant-workmen-1979",
+    "title": "Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979",
+    "aka": "ISMW Act, Migrant Workmen Act",
+    "category": "acts",
+    "type": "act",
+    "year": 1979,
+    "summary": "Regulates the employment of inter-state migrant workers and ensures their fair treatment, wages, and welfare benefits, preventing exploitation by contractors and middlemen.",
+    "details": "The Act protects workers recruited from one state for work in another state through a contractor or intermediary. It applies to establishments employing five or more migrant workers. The Act mandates that every migrant worker receives equal wages as local workers, displacement allowance (equal to 50% of monthly wages), journey allowance, and payment of wages during the period of travel. Contractors must provide suitable residential accommodation, medical facilities, and protective clothing. The principal employer is jointly liable with the contractor for payment of wages and provision of facilities. The Act also provides for the registration of establishments and licensing of contractors who employ migrant workers. Despite the legal framework, migrant workers remain vulnerable, as seen during the COVID-19 crisis. The Ministry of Labour and Employment is the nodal ministry.",
+    "key_points": [
+      "Equal wages for migrant and local workers",
+      "Displacement allowance of 50% of monthly wages",
+      "Contractor must provide housing, medical care, and protective clothing",
+      "Joint liability of principal employer and contractor"
+    ],
+    "tags": [
+      "migrant workers",
+      "inter-state labour",
+      "labour rights",
+      "wage protection",
+      "COVID-19"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1883",
+    "constitutional_basis": "Article 23, 39(a), 39(d), 43",
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "workers",
+      "migrant workers"
+    ],
+    "benefit_type": "protection"
+  },
+  {
+    "id": "prohibition-smoking",
+    "title": "Cigarettes and Other Tobacco Products Act (COTPA), 2003",
+    "aka": "COTPA, Tobacco Control Act",
+    "category": "acts",
+    "type": "act",
+    "year": 2003,
+    "summary": "Prohibits smoking in public places, prohibits advertising of tobacco products, and mandates health warnings on tobacco product packages.",
+    "details": "COTPA prohibits smoking in all public places including workplaces, restaurants, hotels, hospitals, educational institutions, and public transport. It also prohibits direct and indirect advertising of tobacco products and requires specified health warnings on all tobacco product packages. The Act prohibits sale of tobacco products to persons below 18 years and within 100 yards of educational institutions. It mandates the display of statutory warnings at point of sale. State governments and Union Territory administrations are responsible for enforcement through designated nodal officers. The Act was enacted following the Supreme Court's landmark judgment in Murli S. Deora vs Union of India (2001) which recognized the right to health under Article 21 and banned smoking in public places. The Ministry of Health and Family Welfare is the nodal ministry.",
+    "key_points": [
+      "Smoking banned in all public places",
+      "Prohibition of advertising and sponsorship of tobacco products",
+      "Health warnings mandatory on tobacco packages",
+      "No sale of tobacco to minors or near educational institutions"
+    ],
+    "tags": [
+      "tobacco",
+      "public health",
+      "smoking ban",
+      "COTPA",
+      "health warnings"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiacode.nic.in/handle/123456789/1987",
+    "constitutional_basis": "Article 21, 47",
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": null,
+    "benefit_type": "regulatory"
+  }
+]

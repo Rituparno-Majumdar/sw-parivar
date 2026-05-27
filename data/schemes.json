@@ -1,0 +1,3839 @@
+[
+  {
+    "id": "ayushman-bharat-pmjay",
+    "title": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana",
+    "aka": "PM-JAY, Ayushman Bharat, Modicare",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Flagship health insurance scheme providing a cover of ₹5 lakh per family per year for secondary and tertiary hospitalisation to the bottom 40% of India's population.",
+    "details": "PM-JAY was launched in September 2018 under the Ayushman Bharat umbrella (alongside Health & Wellness Centres). It provides cashless hospitalisation benefits of up to ₹5 lakh per family per year, with no cap on family size or age. Over 10 crore families (approx. 50 crore beneficiaries) are entitled based on the Socio-Economic Caste Census (SECC) 2011 deprivation criteria. The scheme covers pre-hospitalisation (3 days) and post-hospitalisation (15 days) expenses, including medicines, diagnostics, and transportation. It is an entitlement-based scheme — beneficiaries can walk into any empanelled public or private hospital anywhere in India for cashless treatment. Over 1,900 medical procedures across 26 specialities are covered, including cardiology, oncology, orthopaedics, and neo-natal care. States can expand coverage through their own state schemes (e.g., Tamil Nadu's Chief Minister's Comprehensive Health Insurance Scheme). The National Health Authority (NHA) is the implementing agency.",
+    "key_points": [
+      "₹5 lakh per family per year cashless health cover for 10+ crore families",
+      "Covers pre and post-hospitalisation, 1,900+ procedures, all specialities",
+      "Portable across India — beneficiary can seek treatment in any empanelled hospital"
+    ],
+    "tags": [
+      "health insurance",
+      "Ayushman Bharat",
+      "PM-JAY",
+      "hospitalisation",
+      "social security"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://pmjay.gov.in/",
+    "constitutional_basis": "Article 21, 47",
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "bpl-families",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "insurance"
+  },
+  {
+    "id": "pmay",
+    "title": "Pradhan Mantri Awas Yojana — Urban and Gramin",
+    "aka": "PMAY, Housing for All",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Provides affordable housing to the urban and rural poor with financial assistance for construction, purchase, or enhancement of houses. Aims to achieve Housing for All.",
+    "details": "PMAY operates through two verticals: PMAY-Urban (launched 2015) targets slum dwellers and urban poor through four components — In-Situ Slum Redevelopment (ISSR), Credit Linked Subsidy Scheme (CLSS), Affordable Housing in Partnership (AHP), and Beneficiary-Led Construction (BLC). PMAY-Gramin (launched 2016 as Indira Awas Yojana restructured) provides ₹1.20 lakh in plain areas and ₹1.30 lakh in hilly/difficult areas per unit to rural BPL households. The scheme provides a subsidy of up to ₹2.67 lakh on home loans for EWS/LIG under CLSS. Beneficiaries are selected through the SECC 2011 database and verified by Gram Sabhas. Women co-ownership is mandatory under PMAY-Gramin. Over 2.5 crore houses have been completed across both urban and rural components as of 2024. The Ministry of Housing and Urban Affairs and the Ministry of Rural Development are the nodal ministries.",
+    "key_points": [
+      "Financial assistance for construction, purchase, and enhancement of houses",
+      "Two verticals: PMAY-Urban (ISSR, CLSS, AHP, BLC) and PMAY-Gramin",
+      "Women co-ownership mandatory under PMAY-Gramin"
+    ],
+    "tags": [
+      "housing",
+      "affordable housing",
+      "slum rehabilitation",
+      "rural housing",
+      "subsidy"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://pmaymis.gov.in/",
+    "constitutional_basis": "Article 21 (right to shelter)",
+    "state": "central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_group": [
+      "bpl-families",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "housing"
+  },
+  {
+    "id": "beti-bachao-beti-padhao",
+    "title": "Beti Bachao Beti Padhao",
+    "aka": "BBBP, Save Girl Child Educate Girl Child",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Multi-ministerial initiative to address the declining Child Sex Ratio (CSR) and promote the education, survival, and empowerment of the girl child.",
+    "details": "BBBP was launched in 2015 in 100 districts with low Child Sex Ratio, later expanded to all 640+ districts. The scheme is a joint initiative of three ministries: Women and Child Development (lead), Health and Family Welfare, and Education. It operates through three pillars: Prevention of Gender-Biased Sex Selection (via enforcement of the PC&PNDT Act), Survival and Protection of the Girl Child (ensuring access to healthcare and nutrition), and Education and Empowerment (enrolment in schools, skill development, and sports). District-specific interventions are designed based on the district's CSR and related indicators. The scheme uses multimedia campaigns like \"Selfie with Daughter\" and \"Save the Girl Child\" to shift social attitudes. Progress is monitored through the BBBP dashboard tracking CSR, sex ratio at birth, school enrolment, and institutional deliveries. The Ministry of Women and Child Development is the nodal ministry.",
+    "key_points": [
+      "Joint initiative of WCD, Health, and Education ministries",
+      "Focus on Child Sex Ratio improvement through PC&PNDT Act enforcement",
+      "Multimedia social campaigns alongside district-specific action plans"
+    ],
+    "tags": [
+      "girl child",
+      "sex ratio",
+      "gender equality",
+      "education",
+      "empowerment"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://wcd.nic.in/bbbp/",
+    "constitutional_basis": "Article 14, 15(3), 21, 39(e), 39(f)",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "girl-child",
+      "women"
+    ],
+    "benefit_type": "education"
+  },
+  {
+    "id": "pm-matru-vandana-yojana",
+    "title": "Pradhan Mantri Matru Vandana Yojana",
+    "aka": "PMMVY, Maternity Benefit Programme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2017,
+    "summary": "Provides a cash incentive of ₹5,000 per pregnancy to pregnant women and lactating mothers for the first living child, to compensate for wage loss and improve maternal nutrition.",
+    "details": "PMMVY replaced the earlier Indira Gandhi Matritva Sahyog Yojana (IGMSY) in 2017. It provides ₹5,000 in three instalments: ₹1,000 on early registration of pregnancy, ₹2,000 after six months of pregnancy (with at least one ANC checkup), and ₹2,000 after childbirth (registration of birth and child's immunisation). The total cash benefit is ₹6,000 when combined with the Janani Suraksha Yojana (JSY) institutional delivery incentive of ₹1,000. Eligible women must be 19 years or older. The scheme covers the first living child — benefits are not available for second or subsequent pregnancies. Aadhaar-based Direct Benefit Transfer (DBT) is used for disbursement. The scheme has been criticised for the low incentive amount (less than the NFSA-mandated ₹6,000) and for excluding second births. The Ministry of Women and Child Development is the nodal ministry.",
+    "key_points": [
+      "₹5,000 in three instalments for the first living child",
+      "Conditional on early pregnancy registration, ANC checkups, and child immunisation",
+      "DBT transfer through Aadhaar-linked bank accounts"
+    ],
+    "tags": [
+      "maternity",
+      "women",
+      "nutrition",
+      "cash transfer",
+      "pregnancy"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://pmmvy.wcd.gov.in/",
+    "constitutional_basis": "Article 15(3), 21, 42, 47",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "cash-transfer"
+  },
+  {
+    "id": "nsap",
+    "title": "National Social Assistance Programme",
+    "aka": "NSAP, Old Age Pension",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1995,
+    "summary": "Provides social pension to destitute elderly, widows, persons with disabilities, and bereaved families. It is a centrally sponsored scheme implemented by state governments.",
+    "details": "NSAP was launched in 1995 and currently has five components: Indira Gandhi National Old Age Pension Scheme (IGNOAPS) — ₹200/month (60-79 years) and ₹500/month (80+ years) for BPL elderly; Indira Gandhi National Widow Pension Scheme (IGNWPS) — ₹300/month for widows aged 40-79 years; Indira Gandhi National Disability Pension Scheme (IGNDPS) — ₹300/month for persons with 80%+ disability aged 18-79; National Family Benefit Scheme (NFBS) — ₹20,000 lump sum on death of the primary breadwinner in a BPL family; Annapurna Scheme — 10 kg free foodgrains/month for eligible elderly not covered by IGNOAPS. States are encouraged to supplement central pension amounts (e.g., Tamil Nadu, Delhi provide ₹1,000-2,000 per month). NSAP covers approximately 3.5 crore beneficiaries. The Ministry of Rural Development is the nodal ministry. Despite being a rights-based programme, NSAP suffers from low coverage, low pension amounts, and exclusion errors.",
+    "key_points": [
+      "Old age pension, widow pension, disability pension, family benefit, and Annapurna",
+      "Central pension supplemented by state governments (varies widely)",
+      "BPL eligibility — SECC or Below Poverty Line certification required"
+    ],
+    "tags": [
+      "social pension",
+      "old age",
+      "widow",
+      "disability",
+      "social security"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://nsap.nic.in/",
+    "constitutional_basis": "Article 41 (Directive Principles)",
+    "state": "central",
+    "ministry": "Ministry of Rural Development",
+    "target_group": [
+      "elderly",
+      "disabled",
+      "bpl-families"
+    ],
+    "benefit_type": "pension"
+  },
+  {
+    "id": "day-nrlm",
+    "title": "Deendayal Antyodaya Yojana — National Rural Livelihoods Mission",
+    "aka": "DAY-NRLM, Ajeevika",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2011,
+    "summary": "Flagship poverty alleviation programme that organises rural poor women into Self-Help Groups (SHGs) and builds sustainable livelihoods through microfinance, skills, and market linkages.",
+    "details": "DAY-NRLM (originally NRLM, renamed in 2015) was launched in 2011 to replace the earlier Swarnajayanti Gram Swarozgar Yojana (SGSY). It aims to cover 10 crore rural poor households across 600+ districts by 2024-25. The social mobilisation strategy involves forming women SHGs at the village level, federating them into village organisations (VOs) and block-level cluster-level federations (CLFs). The scheme provides Revolving Fund (up to ₹15,000 per SHG) and Community Investment Fund (CIF) as start-up capital. A critical component is the interest subvention — SHGs can access bank credit at 7% p.a., with further subvention to 4% for timely repayment. DAY-NRLM also includes the Start-Up Village Entrepreneurship Programme (SVEP) and the Deendayal Upadhyay Kaushal Yojana (DDU-GKY) for skill training and placements. The scheme has mobilised over 8 crore women into 80+ lakh SHGs. The Ministry of Rural Development is the nodal ministry.",
+    "key_points": [
+      "Women SHG-based poverty alleviation through social mobilisation and financial inclusion",
+      "Revolving Fund, Community Investment Fund, and interest subvention (7% → 4%)",
+      "Includes DDU-GKY (skills) and SVEP (village entrepreneurship) as sub-schemes"
+    ],
+    "tags": [
+      "livelihood",
+      "SHG",
+      "women empowerment",
+      "poverty alleviation",
+      "rural development"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.aajeevika.gov.in/",
+    "constitutional_basis": "Article 38, 39(a), 43",
+    "state": "central",
+    "ministry": "Ministry of Rural Development",
+    "target_group": [
+      "women",
+      "rural"
+    ],
+    "benefit_type": "livelihood"
+  },
+  {
+    "id": "pmgsy",
+    "title": "Pradhan Mantri Gram Sadak Yojana",
+    "aka": "PMGSY",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2000,
+    "summary": "Provides all-weather road connectivity to unconnected habitations in rural areas, with a focus on villages in Left-Wing Extremism (LWE) affected and tribal areas.",
+    "details": "PMGSY was launched in 2000 as a fully centrally funded 100% CSS to connect rural habitations with a population of 500+ (250+ in hilly, tribal, and LWE areas) with all-weather roads. Phase I (2000-2015) connected over 1 lakh habitations. Phase II (2013-2020) focused on upgrading existing roads to required standards. Phase III (2019 onwards) targets consolidating the rural road network by connecting habitations to market centres, schools, and hospitals. The scheme uses a rigorous quality monitoring mechanism through State Technical Agencies (STAs) and National Quality Monitors (NQMs). The Online Management, Monitoring and Accounting System (OMMAS) provides real-time tracking of projects. The scheme has significantly improved access to education, healthcare, and markets for rural populations. Over 6.5 lakh km of roads have been constructed. The Ministry of Rural Development is the nodal ministry.",
+    "key_points": [
+      "All-weather road connectivity to unconnected rural habitations (500+ population)",
+      "Three phases — Phase I (connectivity), Phase II (upgrade), Phase III (network consolidation)",
+      "OMMAS for real-time project monitoring and quality assurance"
+    ],
+    "tags": [
+      "rural roads",
+      "connectivity",
+      "infrastructure",
+      "rural development",
+      "access"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://pmgsy.nic.in/",
+    "constitutional_basis": "Article 38, 243G",
+    "state": "central",
+    "ministry": "Ministry of Rural Development",
+    "target_group": [
+      "rural"
+    ],
+    "benefit_type": "infrastructure"
+  },
+  {
+    "id": "sagy",
+    "title": "Sansad Adarsh Gram Yojana",
+    "aka": "SAGY, Model Village Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2014,
+    "summary": "A village development programme under which each Member of Parliament adopts a gram panchayat and leads its holistic development as a model village.",
+    "details": "SAGY was launched in 2014 on Mahatma Gandhi's birth anniversary with the goal of developing model villages as \"Adarsh Grams\" — self-sufficient, socially harmonious, and economically vibrant communities. Each MP adopts one village per year (Lok Sabha MP adopts a gram panchayat in their constituency; Rajya Sabha MP adopts one in their state). The MP acts as a facilitator and motivator, not a fund provider — convergence of existing schemes (MGNREGA, PMAY, SAGY, Swachh Bharat etc.) funds the development. Basic minimum requirements include pucca houses with sanitation, drinking water, electricity, internet connectivity, bank accounts, and 100% Aadhaar enrolment. Social indicators targeted include no child marriage, no child labour, universal immunisation, and school enrolment. As of 2024, over 2,500 villages have been adopted. The Ministry of Rural Development is the nodal ministry.",
+    "key_points": [
+      "Each MP adopts a gram panchayat for holistic development as a model village",
+      "Not a fund-providing scheme — relies on convergence of existing CSS and state schemes",
+      "Focus on both physical infrastructure and social indicators like no child marriage"
+    ],
+    "tags": [
+      "model village",
+      "MP adoption",
+      "convergence",
+      "rural development",
+      "holistic development"
+    ],
+    "importance": "medium",
+    "exam_relevance": true,
+    "source_link": "https://saanjhi.nic.in/",
+    "constitutional_basis": "Article 38, 243G",
+    "state": "central",
+    "ministry": "Ministry of Rural Development",
+    "target_group": [
+      "rural"
+    ],
+    "benefit_type": "infrastructure"
+  },
+  {
+    "id": "swachh-bharat-mission",
+    "title": "Swachh Bharat Mission",
+    "aka": "SBM, Clean India Mission",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2014,
+    "summary": "Nationwide cleanliness and sanitation drive aimed at ending open defecation, improving solid waste management, and changing behavioural practices across urban and rural India.",
+    "details": "SBM was launched in 2014 with two streams: SBM-Gramin (Ministry of Jal Shakti) and SBM-Urban (Ministry of Housing and Urban Affairs). The rural arm achieved Open Defecation Free (ODF) status for all villages in 2019 through the construction of over 10 crore individual household toilets. Phase II (2020-25) focuses on ODF Plus — sustaining ODF status and managing solid and liquid waste, including bio-waste, greywater, and plastic waste. The urban arm targets 100% door-to-door waste collection, waste processing, and eliminating manual scavenging. Key interventions include community and public toilet construction, faecal sludge management, and waste-to-wealth initiatives (composting, recycling). The mission has been credited with reducing open defecation from 55% to under 10%, but concerns remain about toilet usage and maintenance. The Ministry of Jal Shakti (rural) and Ministry of Housing and Urban Affairs (urban) are the nodal agencies.",
+    "key_points": [
+      "Declared India ODF in 2019 after constructing 10+ crore household toilets",
+      "Phase II (ODF Plus) focuses on solid and liquid waste management",
+      "Dual rural-urban implementation by Jal Shakti and Housing & Urban Affairs ministries"
+    ],
+    "tags": [
+      "sanitation",
+      "cleanliness",
+      "open defecation",
+      "waste management",
+      "public health"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://swachhbharatmission.gov.in/",
+    "constitutional_basis": "Article 21, 47",
+    "state": "central",
+    "ministry": "Ministry of Jal Shakti",
+    "target_group": [
+      "rural",
+      "urban",
+      "all"
+    ],
+    "benefit_type": "sanitation"
+  },
+  {
+    "id": "pm-ujjwala-yojana",
+    "title": "Pradhan Mantri Ujjwala Yojana",
+    "aka": "PMUY, Ujjwala",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2016,
+    "summary": "Provides free LPG (liquefied petroleum gas) connections to women from BPL households, replacing traditional solid cooking fuels (firewood, coal, dung cakes) with clean cooking fuel.",
+    "details": "PMUY was launched in 2016 to provide 5 crore LPG connections (later expanded to 10 crore) to BPL households, with the connection fee (₹1,600) borne by the government. The eligible woman must be 18+ years from a BPL family, with the connection issued in her name. The first refill and stove are provided free of cost. PMUY beneficiaries are identified through the SECC database. The scheme has been instrumental in reducing indoor air pollution (a major cause of respiratory illness and death among women and children), saving time spent collecting firewood, and reducing deforestation. The \"Give It Up\" campaign encouraged affluent households to voluntarily surrender their LPG subsidy, funding new PMUY connections. As of 2024, over 10 crore connections have been issued. The Ministry of Petroleum and Natural Gas is the nodal ministry. The scheme has faced criticism for lack of affordability of refills — the PAHAL (DBTL) subsidy and PMUY's own free refill programme address this partially.",
+    "key_points": [
+      "Free LPG connection to 10 crore BPL women — connection fee borne by government",
+      "Reduces indoor air pollution and drudgery of firewood collection",
+      "First refill and stove free; subsequent refills subsidised through PAHAL/DBTL"
+    ],
+    "tags": [
+      "clean fuel",
+      "LPG",
+      "women empowerment",
+      "health",
+      "air pollution"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.pmujjwalayojana.com/",
+    "constitutional_basis": "Article 21, 47",
+    "state": "central",
+    "ministry": "Ministry of Petroleum and Natural Gas",
+    "target_group": [
+      "women",
+      "bpl-families",
+      "rural"
+    ],
+    "benefit_type": "in-kind"
+  },
+  {
+    "id": "pm-jan-dhan-yojana",
+    "title": "Pradhan Mantri Jan Dhan Yojana",
+    "aka": "PMJDY, Jan Dhan",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2014,
+    "summary": "National financial inclusion mission that provides every unbanked household with a zero-balance savings account, insurance cover, and access to formal banking services.",
+    "details": "PMJDY was launched in 2014 under the slogan \"Mera Khata — Bhagya Vidhaata\" and is the world's largest financial inclusion initiative. It provides a Basic Savings Bank Deposit Account (BSBDA) with zero minimum balance requirement, an accidental insurance cover of ₹2 lakh, a life insurance cover of ₹30,000 (through the Jan Dhan-Aadhaar-Mobile or JAM trinity), and an overdraft facility of up to ₹10,000 after satisfactory operation for 6 months. A RuPay debit card is issued to all account holders. Accounts are categorised by gender: over 55% of account holders are women. The scheme has been integrated with DBT — subsidies and benefits under MGNREGA, PMAY, NFSA, and other CSS are directly credited to these accounts, reducing leakages. Over 50 crore accounts have been opened, bringing banking to virtually every household. The Department of Financial Services, Ministry of Finance, is the nodal department.",
+    "key_points": [
+      "Zero-balance account with RuPay card, ₹2 lakh accident cover, and overdraft up to ₹10,000",
+      "Over 50 crore bank accounts opened — world's largest financial inclusion drive",
+      "DBT integration reduced subsidy leakage by transferring benefits directly"
+    ],
+    "tags": [
+      "financial inclusion",
+      "banking",
+      "DBT",
+      "insurance",
+      "social security"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.pmjdy.gov.in/",
+    "constitutional_basis": "Article 38, 39(b)",
+    "state": "central",
+    "ministry": "Ministry of Finance",
+    "target_group": [
+      "all",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "infrastructure"
+  },
+  {
+    "id": "pm-svanidhi",
+    "title": "Pradhan Mantri Street Vendor's AtmaNirbhar Nidhi",
+    "aka": "PM SVANidhi",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Provides collateral-free working capital loans up to ₹50,000 to street vendors affected by the COVID-19 pandemic, helping them restart their livelihoods.",
+    "details": "PM SVANidhi was launched in June 2020 as a special micro-credit facility for street vendors whose livelihoods were disrupted by the COVID-19 lockdown. Eligible vendors must have a Certificate of Vending (CoV) or an identity card issued by the Town Vending Committee (TVC) under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act 2014. The loan is structured in three tranches: ₹10,000 initially, ₹20,000 after timely repayment, and up to ₹50,000 in the third tranche. The scheme provides interest subvention at 7% per annum — vendors paying on time receive a 7% interest subsidy credited to their account every six months, effectively making the loan at 0% cost if repaid on time. Digital transactions are incentivised through monthly cashback of up to ₹100. As of 2024, over 60 lakh loans have been disbursed. The Ministry of Housing and Urban Affairs is the nodal ministry.",
+    "key_points": [
+      "Collateral-free loan up to ₹50,000 in three tranches for street vendors",
+      "7% interest subvention — effectively 0% interest if repaid on time",
+      "Launched as COVID relief; linked to Street Vendors Act 2014 certification"
+    ],
+    "tags": [
+      "street vendors",
+      "micro-credit",
+      "livelihood",
+      "COVID relief",
+      "urban poor"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://pmsvanidhi.mohua.gov.in/",
+    "constitutional_basis": "Article 21, 38, 43",
+    "state": "central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_group": [
+      "street-vendors",
+      "urban"
+    ],
+    "benefit_type": "livelihood"
+  },
+  {
+    "id": "one-stop-centre-sakhi",
+    "title": "One Stop Centre Scheme",
+    "aka": "Sakhi, OSC",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Establishes integrated support centres across the country to provide medical aid, police assistance, legal aid, counselling, and temporary shelter to women affected by violence.",
+    "details": "The One Stop Centre (OSC) scheme, popularly known as Sakhi, was launched in 2015 as a centrally sponsored scheme to establish centres at every district headquarters. Each OSC provides a single point of facilitation for women facing domestic violence, sexual abuse, acid attacks, trafficking, dowry harassment, and other gender-based violence. Services offered under one roof include: immediate medical assistance, police facilitation (filing FIR), legal aid (through empanelled lawyers), psycho-social counselling, temporary shelter (up to 5 days), and video conferencing facility for court proceedings. The OSC is linked with other women-focused helplines and schemes (Women Helpline 1090, Shakti Sadans, Swadhar Greh). A 24×7 toll-free helpline (181) operates alongside. Over 700 OSCs are operational across India. The Ministry of Women and Child Development is the nodal ministry. The scheme has been critical for providing immediate post-incident support in the 'golden hour' after violence.",
+    "key_points": [
+      "Single-window support for women facing all forms of gender-based violence",
+      "Services include medical, police, legal, counselling, and shelter under one roof",
+      "Linked to Women Helpline 181 and other protection schemes"
+    ],
+    "tags": [
+      "women",
+      "violence",
+      "shelter",
+      "legal aid",
+      "counselling"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://wcd.nic.in/schemes/one-stop-centre-scheme",
+    "constitutional_basis": "Article 14, 15(3), 21",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "health"
+  },
+  {
+    "id": "ujjawala",
+    "title": "Ujjawala Scheme",
+    "aka": "Ujjawala, Anti-Trafficking Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2007,
+    "summary": "Comprehensive scheme for the prevention of trafficking and rescue, rehabilitation, and reintegration of women and children subjected to commercial sexual exploitation.",
+    "details": "The Ujjawala scheme (not to be confused with PM Ujjwala Yojana for LPG) was launched in 2007 by the Ministry of Women and Child Development. It has five components: Prevention (awareness generation, community participation, formation of vigilance committees), Rescue (safe rescue operations in coordination with police), Rehabilitation (provision of shelter, food, clothing, medical care, counselling), Reintegration (linking rescued victims with family or alternative care, skill training, and economic support), and Repatriation (cross-border victims returned to their country of origin). The scheme provides financial assistance to NGOs and state agencies running shelter homes for rescued trafficking victims. Each shelter can accommodate 30-50 beneficiaries, providing services for 1-3 years. The scheme also supports protective homes and transitional shelters. The Ministry of Women and Child Development is the nodal ministry.",
+    "key_points": [
+      "Five components: Prevention, Rescue, Rehabilitation, Reintegration, Repatriation",
+      "Shelter homes for 30-50 rescued victims with food, medical care, and counselling",
+      "Supports both NGOs and state agencies in anti-trafficking operations"
+    ],
+    "tags": [
+      "trafficking",
+      "women",
+      "children",
+      "rehabilitation",
+      "rescue"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://wcd.nic.in/schemes/ujjawala-scheme-comprehensive-scheme-prevention-trafficking",
+    "constitutional_basis": "Article 23, 24, 39(e), 39(f), 21",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women",
+      "children"
+    ],
+    "benefit_type": "health"
+  },
+  {
+    "id": "mission-vatsalya",
+    "title": "Mission Vatsalya",
+    "aka": "Child Protection Mission",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2022,
+    "summary": "A flagship child protection programme that replaces the Integrated Child Protection Scheme (ICPS) and focuses on the welfare, protection, and rehabilitation of children in difficult circumstances.",
+    "details": "Mission Vatsalya (merged from earlier ICPS and Child Protection Services components) is implemented as a centrally sponsored scheme by the Ministry of Women and Child Development. It covers children in need of care and protection (CNCP), children in conflict with law (CCL), orphaned and abandoned children, street children, child labourers, and children affected by disasters. The key institutional structures include Child Welfare Committees (CWC), Juvenile Justice Boards (JJB), Special Juvenile Police Units (SJPU), and Child Helpline (1098). Services include emergency outreach (Childline 1098), open shelters, foster care, sponsorship, adoption (through CARA), and institutional care in Children's Homes. The mission also provides for after-care programmes for children leaving institutional care at 18 years. The scheme aligns with the Juvenile Justice (Care and Protection of Children) Act 2015 and its rules.",
+    "key_points": [
+      "Replaces ICPS — covers child protection through institutional and non-institutional care",
+      "Supports CWC, JJB, SJPU, Childline 1098, and CARA adoption framework",
+      "Includes after-care programmes for children leaving care at age 18"
+    ],
+    "tags": [
+      "child protection",
+      "juvenile justice",
+      "foster care",
+      "adoption",
+      "rehabilitation"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://wcd.nic.in/schemes/mission-vatsalya",
+    "constitutional_basis": "Article 15(3), 39(e), 39(f), 45",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "children"
+    ],
+    "benefit_type": "health"
+  },
+  {
+    "id": "mission-shakti",
+    "title": "Mission Shakti",
+    "aka": "Women Empowerment Mission",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2022,
+    "summary": "An umbrella programme for women's safety, security, and empowerment, merging existing women protection schemes into two verticals: Sambal (safety) and Samarthya (empowerment).",
+    "details": "Mission Shakti was launched in 2022 (Budget announcement) by merging the earlier schemes of One Stop Centre, Women Helpline (181), Beti Bachao Beti Padhao, Ujjawala, Swadhar Greh, and Working Women Hostels into a unified mission. It has two verticals: Sambal (for safety and security) covers OSCs, Women Helpline 181, emergency response, and investigation tracking; Samarthya (for empowerment) covers BBBP, PMMVY, Swadhar Greh (shelter for women in distress), Working Women Hostels, and Gender Budgeting. The mission also includes the Gender Hub — a digital platform for data on crimes against women, scheme outreach, and grievance redress. Nari Adalats (women's courts) are a new component for alternative dispute resolution of family and gender-based disputes at the community level. The Ministry of Women and Child Development is the nodal ministry.",
+    "key_points": [
+      "Umbrella mission merging all WCD women's schemes into Sambal (safety) and Samarthya (empowerment)",
+      "Includes Nari Adalat — community-level alternative dispute resolution",
+      "Gender Hub digital platform for tracking crimes against women and scheme delivery"
+    ],
+    "tags": [
+      "women",
+      "safety",
+      "empowerment",
+      "shelter",
+      "mission shakti"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://wcd.nic.in/schemes/mission-shakti",
+    "constitutional_basis": "Article 14, 15(3), 21",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "skill-development"
+  },
+  {
+    "id": "digital-india",
+    "title": "Digital India Programme",
+    "aka": "Digital India",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Flagship programme to transform India into a digitally empowered society and knowledge economy, focusing on digital infrastructure, governance, and digital literacy.",
+    "details": "Digital India was launched in 2015 with three core vision areas: Digital Infrastructure as a Utility to Every Citizen (high-speed internet, digital identity via Aadhaar, mobile phones, bank accounts), Governance and Services on Demand (online service delivery, digital locker, e-Sign, online bill payments, and real-time grievance redress), and Digital Empowerment of Citizens (digital literacy, universal access to digital resources, and digital content in Indian languages). Key pillars include broadband highways (BharatNet connecting gram panchayats), universal access to mobile connectivity, Public Internet Access Programme (Common Service Centres — CSCs in every village), e-Governance, e-Kranti (electronic delivery of services), Information for All (open data), and Early Harvest Programmes. The JAM trinity (Jan Dhan-Aadhaar-Mobile) forms the backbone of DBT and financial inclusion. The Ministry of Electronics and Information Technology (MeitY) is the nodal ministry.",
+    "key_points": [
+      "Three pillars: Digital Infrastructure, Governance on Demand, Digital Empowerment",
+      "BharatNet for broadband connectivity, CSCs for last-mile service delivery",
+      "JAM trinity (Jan Dhan + Aadhaar + Mobile) for DBT and inclusive access"
+    ],
+    "tags": [
+      "digital literacy",
+      "e-governance",
+      "broadband",
+      "Aadhaar",
+      "technology"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.digitalindia.gov.in/",
+    "constitutional_basis": "Article 38, 39(b), 39(c)",
+    "state": "central",
+    "ministry": "Ministry of Electronics and Information Technology",
+    "target_group": [
+      "all",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "infrastructure"
+  },
+  {
+    "id": "pmkvy",
+    "title": "Pradhan Mantri Kaushal Vikas Yojana",
+    "aka": "PMKVY, Skill India",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Flagship skill training programme that provides industry-relevant short-term training and certification to youth, with monetary rewards and placement assistance.",
+    "details": "PMKVY was launched in 2015 as part of the Skill India Mission. The scheme has two major components: Short-Term Training (STT) at affiliated Training Centres (TCs) and Recognition of Prior Learning (RPL) for certifying existing skills of workers. Training is aligned with the National Skills Qualification Framework (NSQF) and job roles defined by Sector Skill Councils (SSCs). The scheme provides monetary rewards of ₹2,000-8,000 on successful assessment and certification. PMKVY 2.0 (2016-21) trained over 1 crore youth. PMKVY 3.0 (2021-26) focuses on reskilling and upskilling, with increased use of IT-enabled training and on-the-job training. Special components include Kaushal Dakshta (assessment), Kaushal Acharya (trainer training), and the Skill Loan scheme. Placement is a key performance indicator, with a minimum 70% placement target. The Ministry of Skill Development and Entrepreneurship (MSDE) is the nodal ministry.",
+    "key_points": [
+      "Short-term training and Recognition of Prior Learning certification under NSQF",
+      "Monetary reward of ₹2,000-₹8,000 on successful certification",
+      "Placement-linked — minimum 70% placement target for training centres"
+    ],
+    "tags": [
+      "skills",
+      "training",
+      "employment",
+      "youth",
+      "certification"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.pmkvyofficial.org/",
+    "constitutional_basis": "Article 38, 39(a), 41, 43",
+    "state": "central",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "target_group": [
+      "youth",
+      "students",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "skill-development"
+  },
+  {
+    "id": "jal-jeevan-mission",
+    "title": "Jal Jeevan Mission",
+    "aka": "JJM, Har Ghar Jal",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2019,
+    "summary": "Aims to provide tap water connection (Functional Household Tap Connection — FHTC) to every rural household in India by 2024, ensuring safe and adequate drinking water at the doorstep.",
+    "details": "JJM was announced in 2019 to provide FHTC to all 19.4 crore rural households. The mission follows a 'bottom-up' approach — villages prepare Village Action Plans (VAP) endorsed by the Gram Sabha. Priority is given to villages in water-scarce areas, Scheduled Areas, and Aspirational Districts. The scheme covers at least one 55 litre per capita per day (lpcd) supply through taps. Water quality monitoring and surveillance are built into the framework, with each village having at least five trained women for regular water quality testing using Field Testing Kits (FTKs). Greywater management and rainwater harvesting are mandatory components. The mission places special emphasis on vulnerable communities (SC/ST habitations, PVTGs, and areas affected by fluoride, arsenic, and iron contamination). As of 2024, over 14 crore rural households (72%) have been provided with tap connections, compared to just 3.2 crore in 2019. The Ministry of Jal Shakti (Department of Drinking Water and Sanitation) is the nodal ministry.",
+    "key_points": [
+      "Tap water connection (FHTC) to all rural households — over 14 crore connected as of 2024",
+      "Village Action Plan prepared by Gram Sabha — community-owned water management",
+      "Water quality testing by trained women using FTKs at village level"
+    ],
+    "tags": [
+      "drinking water",
+      "rural",
+      "tap connection",
+      "water quality",
+      "sanitation"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://jaljeevanmission.gov.in/",
+    "constitutional_basis": "Article 21 (right to water), 47",
+    "state": "central",
+    "ministry": "Ministry of Jal Shakti",
+    "target_group": [
+      "rural",
+      "all"
+    ],
+    "benefit_type": "infrastructure"
+  },
+  {
+    "id": "nhm",
+    "title": "National Health Mission",
+    "aka": "NHM",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2013,
+    "summary": "Umbrella programme providing comprehensive primary, secondary, and tertiary healthcare services, especially to rural and underserved populations. Subsumes the earlier NRHM and NUHM.",
+    "details": "NHM was launched in 2013 by merging the National Rural Health Mission (NRHM, 2005) and the National Urban Health Mission (NUHM). NRHM focuses on village-level healthcare through Sub-Centres (SC), Primary Health Centres (PHC), and Community Health Centres (CHC), and the ASHA (Accredited Social Health Activist) network of over 10 lakh community health workers. NUHM focuses on urban slums and vulnerable urban populations through Urban PHCs and Urban Community Health Centres. Key programmes under NHM include Reproductive and Child Health (RCH) — Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK), and Family Planning; Immunisation (Universal Immunisation Programme — UIP); Tuberculosis (National TB Elimination Programme — NTEP); Malaria (National Vector Borne Disease Control Programme — NVBDCP); and non-communicable diseases (NCDs). NHM also operates 24×7 PHCs and First Referral Units (FRUs) for emergency care. The Ministry of Health and Family Welfare is the nodal ministry.",
+    "key_points": [
+      "Merges NRHM (rural) and NUHM (urban) — universal health coverage approach",
+      "ASHA network of 10+ lakh community health workers acting as bridge between community and system",
+      "Covers reproductive health, immunisation, disease control, and NCD programmes"
+    ],
+    "tags": [
+      "health",
+      "rural health",
+      "immunisation",
+      "ASHA",
+      "public health"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://nhm.gov.in/",
+    "constitutional_basis": "Article 21, 39(e), 47",
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "women",
+      "children",
+      "rural",
+      "urban",
+      "all"
+    ],
+    "benefit_type": "health"
+  },
+  {
+    "id": "pm-poshan",
+    "title": "PM POSHAN (Mid-Day Meal) Scheme",
+    "aka": "PM POSHAN, Mid-Day Meal Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Provides daily hot cooked nutritious meals to children in government and government-aided schools from Bal Vatika (pre-primary) to Class VIII, improving nutrition, attendance, and social equity.",
+    "details": "Originally launched in 1995 as the National Programme of Nutritional Support to Primary Education (NP-NSPE), the scheme was renamed PM POSHAN Shakti Nirman in 2021 (National Scheme for PM POSHAN in Schools). It covers all children in government, government-aided, and local body schools from Bal Vatika (pre-primary) to Class VIII, with the standard being a hot cooked meal providing 450-700 calories and 12-20 grams of protein per day. The scheme also provides supplementary nutrition to children in aspirational districts and particularly vulnerable tribal groups (PVTGs). The central government provides foodgrains at subsidised rates and cooking cost assistance (₹4.97 per child for primary, ₹7.45 for upper primary). Cook-cum-helpers (preferably women from SC/ST communities) are employed. The scheme has been linked to the School Management Committee (SMC) for local oversight and Tithi Bhojan (festival meals) as a community participation model. The Ministry of Education is the nodal ministry.",
+    "key_points": [
+      "Hot cooked meal to all government/ aided school children from Bal Vatika to Class VIII",
+      "450-700 calories per meal — improves nutrition, attendance, and social equity",
+      "Cook-cum-helpers employed from SC/ST communities; SMC for local oversight"
+    ],
+    "tags": [
+      "mid-day meal",
+      "nutrition",
+      "education",
+      "school children",
+      "social equity"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://pmposhan.education.gov.in/",
+    "constitutional_basis": "Article 21, 21A, 47",
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "children",
+      "students"
+    ],
+    "benefit_type": "nutrition"
+  },
+  {
+    "id": "samagra-shiksha",
+    "title": "Samagra Shiksha Abhiyan",
+    "aka": "Samagra Shiksha, SSE",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "An integrated school education programme that subsumes the Sarva Shiksha Abhiyan (SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA), and Teacher Education (TE), covering the entire schooling cycle from pre-primary to Class XII.",
+    "details": "Samagra Shiksha was launched in 2018 as a sector-wide development programme for school education with a single schematic and budget head. It covers three tiers: Elementary (Classes I-VIII, from SSA), Secondary (Classes IX-X, from RMSA), and Senior Secondary (Classes XI-XII, new). Key components include Quality & Access — opening new schools up to secondary level, providing missing infrastructure (toilets, drinking water, electricity, libraries, laboratories, ICT), and Kasturba Gandhi Balika Vidyalayas (KGBVs) for girls' education. Learning enhancement programmes, remedial teaching, and bridge courses are provided for out-of-school children. Teacher education and training, including DIETs, SCERTs, and in-service teacher training, is a major focus area. The scheme supports Rashtriya Avishkar Abhiyan (science and maths) and Vidyanjali (volunteer mentoring). The Ministry of Education is the nodal ministry.",
+    "key_points": [
+      "Integrates SSA + RMSA + Teacher Education into a single school education framework",
+      "Covers pre-primary to Class XII with focus on both access and quality",
+      "Includes KGBVs, remedial teaching, teacher training, and ICT infrastructure"
+    ],
+    "tags": [
+      "education",
+      "school education",
+      "SSA",
+      "RMSA",
+      "teacher training"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://samagra.education.gov.in/",
+    "constitutional_basis": "Article 21A, 45",
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "students",
+      "children",
+      "girl-child"
+    ],
+    "benefit_type": "education"
+  },
+  {
+    "id": "post-matric-scholarship-sc-st",
+    "title": "Post-Matric Scholarship for SC/ST Students",
+    "aka": "PMS for SC/ST, Post-Matric Scholarship",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1944,
+    "summary": "Provides financial assistance to SC/ST students pursuing post-matric education including degree, diploma, and professional courses, covering tuition fees, maintenance allowance, and other expenses.",
+    "details": "The Post-Matric Scholarship (PMS) for SC/ST students is a centrally sponsored scheme (100% central for ST, shared ratio for SC) administered by the Ministry of Social Justice and Empowerment (for SC) and Ministry of Tribal Affairs (for ST). It covers courses after Class X, including intermediate (XI-XII), undergraduate, postgraduate, PhD, professional degrees (engineering, medicine, law, management), and diploma courses. The scholarship includes maintenance allowance (hosteller/day scholar), tuition fees (full reimbursement for government institutions, ceiling for private), reader charges for blind students, study tours, and thesis typing/printing charges. Income ceilings apply — family income must not exceed ₹2.50 lakh per annum (for SC) or ₹2.50 lakh (for ST; higher in some states). The scheme is implemented through a National Scholarship Portal (NSP) online application system. It is one of the oldest and most impactful affirmative action programmes supporting SC/ST education. Critics point to underutilisation of funds and delays in disbursement as ongoing challenges.",
+    "key_points": [
+      "Covers all post-matric levels from Class XI to PhD and professional courses",
+      "Includes maintenance allowance, tuition fee reimbursement, and special reader charges for blind students",
+      "Family income ceiling of ₹2.50 lakh per annum — applied through NSP portal"
+    ],
+    "tags": [
+      "scholarship",
+      "SC/ST",
+      "education",
+      "affirmative action",
+      "post-matric"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://scholarships.gov.in/",
+    "constitutional_basis": "Article 15(4), 15(5), 46",
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "scholarship"
+  },
+  {
+    "id": "kasturba-gandhi-balika-vidyalaya",
+    "title": "Kasturba Gandhi Balika Vidyalaya",
+    "aka": "KGBV",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2004,
+    "summary": "Establishes residential upper primary schools for girls from SC, ST, OBC, and minority communities in educationally backward blocks (EBBs), providing free education, boarding, and lodging.",
+    "details": "KGBV was launched in 2004 as a sub-component of the Sarva Shiksha Abhiyan (now under Samagra Shiksha) to address gender disparities in education. Each KGBV is a residential school at the upper primary level (Classes VI-VIII) located in Educationally Backward Blocks (EBBs) — blocks where the female rural literacy rate is below the national average. Three models operate: Model I (school with 100-150 girls on school premises), Model II (50-100 girls in a rented building), and Model III (50-100 girls on a day-scholar basis in urban areas). Students receive free textbooks, stationery, uniforms, and a nutritious midday meal. KGBVs also provide bridge courses for out-of-school girls to mainstream them. The scheme targets girls who have never attended school or have dropped out, covering those in difficult circumstances including child labourers, trafficked survivors, and displaced girls. Over 5,000 KGBVs operate across India. The Ministry of Education is the nodal ministry.",
+    "key_points": [
+      "Residential schools for SC/ST/OBC/minority girls in Educationally Backward Blocks",
+      "Three models of operation — in-school, rented building, and day-scholar",
+      "Free boarding, lodging, textbooks, uniforms, and midday meal for girls in Classes VI-VIII"
+    ],
+    "tags": [
+      "girls education",
+      "residential school",
+      "SC/ST/OBC",
+      "minorities",
+      "bridging"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://samagra.education.gov.in/kgbv.html",
+    "constitutional_basis": "Article 15(3), 21A, 46",
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "girl-child",
+      "tribal",
+      "students"
+    ],
+    "benefit_type": "education"
+  },
+  {
+    "id": "pm-mudra-yojana",
+    "title": "Pradhan Mantri Mudra Yojana",
+    "aka": "PMMY, Mudra Yojana",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Provides collateral-free loans up to ₹10 lakh to non-corporate, non-farm small and micro enterprises for income generation and employment creation.",
+    "details": "PM Mudra Yojana was launched in 2015 to fund the unfunded micro-entrepreneurs. Loans are categorised into three products: Shishu (up to ₹50,000), Kishor (₹50,001 to ₹5 lakh), and Tarun (₹5,00,001 to ₹10 lakh). The scheme covers all non-corporate small business owners including manufacturers, traders, service providers, and agri-allied activities. Loans are extended by banks, NBFCs, and MFIs. The scheme has particularly benefited women entrepreneurs, SC/ST entrepreneurs, and OBC entrepreneurs. The interest rates are linked to the base rate of the lending institution. The target for 2024-25 is ₹2.20 lakh crore in loans. The Ministry of Finance (Department of Financial Services) is the nodal ministry. The MUDRA card (RuPay debit card) is issued to draw working capital from the loan account.",
+    "key_points": [
+      "Three loan categories: Shishu (up to ₹50K), Kishor (₹50K-₹5L), Tarun (₹5L-₹10L)",
+      "Collateral-free loans to non-corporate micro enterprises",
+      "Special focus on women, SC/ST, and OBC entrepreneurs",
+      "MUDRA card for working capital drawdown"
+    ],
+    "tags": [
+      "micro-credit",
+      "entrepreneurship",
+      "Mudra",
+      "self-employment",
+      "financial inclusion"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.mudra.org.in/",
+    "constitutional_basis": "Article 38, 39(a), 43",
+    "state": "central",
+    "ministry": "Ministry of Finance",
+    "target_group": [
+      "small-business",
+      "women",
+      "youth"
+    ],
+    "benefit_type": "livelihood"
+  },
+  {
+    "id": "sukhanya-samriddhi",
+    "title": "Sukanya Samriddhi Yojana",
+    "aka": "SSY, Girl Child Savings Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "A small savings scheme for the girl child, offering tax benefits and high interest rate, aimed at meeting future education and marriage expenses.",
+    "details": "Sukanya Samriddhi Yojana was launched in 2015 under the Beti Bachao Beti Padhao campaign. An account can be opened for a girl child below 10 years, with a minimum deposit of ₹250 and maximum of ₹1.5 lakh per financial year. The scheme offers a government-guaranteed interest rate (8% for FY 2024-25, historically one of the highest among small savings schemes). The account matures after 21 years from the date of opening or on the girl's marriage after 18 years. Partial withdrawal (up to 50%) is permitted for higher education after the girl attains 18 years. The account can be opened at any post office or authorised commercial bank. Tax benefits are available under Section 80C. The scheme promotes long-term savings for girl child welfare. The Ministry of Finance is the nodal ministry.",
+    "key_points": [
+      "For girl child below 10 years, max deposit ₹1.5 lakh/year",
+      "Highest interest rate among small savings schemes",
+      "Matures at 21 years or upon marriage after 18",
+      "Tax benefits under Section 80C"
+    ],
+    "tags": [
+      "girl child",
+      "savings",
+      "tax benefit",
+      "education",
+      "marriage"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.indiapost.gov.in/SukanyaSamriddhiAccount",
+    "constitutional_basis": "Article 15(3), 39(e), 39(f)",
+    "state": "central",
+    "ministry": "Ministry of Finance",
+    "target_group": [
+      "girl-child"
+    ],
+    "benefit_type": "education"
+  },
+  {
+    "id": "icds",
+    "title": "Integrated Child Development Services",
+    "aka": "ICDS, Anganwadi Programme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1975,
+    "summary": "India's flagship early childhood development programme providing nutrition, health, and preschool education to children under 6, pregnant and lactating mothers, through a network of Anganwadi centres.",
+    "details": "ICDS was launched in 1975 and is one of the world's largest community-based early childhood development programmes. It operates through over 14 lakh Anganwadi Centres (AWCs) across the country, each staffed by an Anganwadi Worker (AWW) and helper. The scheme provides six services: supplementary nutrition, immunisation, health check-ups, referral services, preschool education (for 3-6 years), and nutrition & health education for mothers. Children aged 6 months to 3 years receive Take Home Ration (THR), while children 3-6 years receive hot cooked meals or morning snacks at the Anganwadi. The scheme is implemented through a partnership between the Ministry of Women and Child Development (nodal) and Health & Education departments. Despite its reach, ICDS faces challenges of inadequate funding, poor infrastructure, and low nutrition budgets. The POSHAN Abhiyaan (National Nutrition Mission) was launched in 2018 to strengthen ICDS and address malnutrition.",
+    "key_points": [
+      "Six services: nutrition, immunisation, health check-up, referral, preschool, health education",
+      "14+ lakh Anganwadi Centres across India",
+      "Targets children 0-6 years, pregnant women, and lactating mothers",
+      "POSHAN Abhiyaan launched to strengthen ICDS delivery"
+    ],
+    "tags": [
+      "nutrition",
+      "child development",
+      "ICDS",
+      "anganwadi",
+      "early childhood",
+      "health"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://wcd.nic.in/icds-programme",
+    "constitutional_basis": "Article 21, 45, 47",
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "children",
+      "women"
+    ],
+    "benefit_type": "nutrition"
+  },
+  {
+    "id": "janani-suraksha",
+    "title": "Janani Suraksha Yojana",
+    "aka": "JSY, Safe Motherhood Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2005,
+    "summary": "A conditional cash transfer scheme under the National Health Mission that promotes institutional delivery by providing cash incentives to pregnant women from poor households.",
+    "details": "JSY was launched in 2005 as part of the National Rural Health Mission to reduce maternal and neonatal mortality by promoting institutional delivery. It provides cash incentives to pregnant women who deliver in a government health facility or an accredited private facility. The incentive varies by state and rural/urban classification: ₹1,400 (rural) and ₹1,000 (urban) in low-performing states, and ₹700 (rural) and ₹600 (urban) in high-performing states, with additional incentives for SC/ST and BPL women. The Accredited Social Health Activist (ASHA) also receives a performance-based incentive for accompanying the woman to the facility. The scheme covers all pregnant women aged 19+ years from BPL families for up to two live births. JSY has contributed significantly to the increase in institutional deliveries from 39% (2005) to over 89% (2024). The Ministry of Health and Family Welfare is the nodal ministry.",
+    "key_points": [
+      "Cash incentive for institutional delivery in government health facilities",
+      "ASHA receives referral incentive for accompanying the mother",
+      "Significantly increased institutional delivery rates across India",
+      "Coverage for BPL women, up to two live births"
+    ],
+    "tags": [
+      "maternal health",
+      "institutional delivery",
+      "JSY",
+      "NHM",
+      "cash transfer"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841&lid=309",
+    "constitutional_basis": "Article 21, 39(e), 42, 47",
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "cash-transfer"
+  },
+  {
+    "id": "rbsk",
+    "title": "Rashtriya Bal Swasthya Karyakram",
+    "aka": "RBSK, Child Health Screening and Early Intervention Programme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2013,
+    "summary": "A comprehensive child health screening programme that screens children from birth to 18 years for 30 categories of health conditions (4 Ds: Defects at birth, Diseases, Deficiencies, Developmental delays).",
+    "details": "RBSK was launched in 2013 under the National Health Mission as a population-based child health screening programme. It covers 30 health conditions across four categories: Defects at Birth (cleft lip, club foot, congenital heart disease), Diseases (skin conditions, dental caries, rheumatic heart disease), Deficiencies (anaemia, vitamin A deficiency, iodine deficiency), and Developmental Delays (speech delay, autism, cerebral palsy, hearing loss). The screening is conducted by Mobile Health Teams (MHTs) at Anganwadi centres and schools, and by health workers at the community level. Children identified with conditions are referred to District Early Intervention Centres (DEICs) for confirmation and treatment. The scheme covers 2,740 identified health conditions requiring surgery and provides free treatment under the Rashtriya Bal Suraksha Karyakram. The Ministry of Health and Family Welfare is the nodal ministry.",
+    "key_points": [
+      "Screens children 0-18 years for 30 health conditions (4 Ds)",
+      "Mobile Health Teams conduct screening at Anganwadis and schools",
+      "Free treatment through District Early Intervention Centres",
+      "Covers surgeries for identified birth defects"
+    ],
+    "tags": [
+      "child health",
+      "screening",
+      "early intervention",
+      "birth defects",
+      "NHM"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=1571&lid=827",
+    "constitutional_basis": "Article 21, 47",
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "children",
+      "students"
+    ],
+    "benefit_type": "health"
+  },
+  {
+    "id": "atal-pension",
+    "title": "Atal Pension Yojana",
+    "aka": "APY, Old Age Pension Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "A guaranteed minimum pension scheme for unorganised sector workers aged 18-40, providing a monthly pension of ₹1,000 to ₹5,000 upon reaching 60 years.",
+    "details": "APY was launched in 2015 to replace the earlier Swavalamban Yojana. The scheme is open to all citizens aged 18-40 years with a savings bank account. The subscriber chooses a pension amount (₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 per month payable after 60 years). The pension amount is guaranteed by the government — if the investment returns fall short, the government funds the deficit; if returns exceed, the surplus is credited to the subscriber. The contribution amount varies based on the age of entry and the chosen pension amount. A spouse is eligible for the same pension upon the subscriber's death. Upon the death of both, the corpus is returned to the nominee. Co-contribution (50% of the contribution up to ₹1,000 per year) was available for the first five years for non-taxpayers not covered by any social security scheme. The Pension Fund Regulatory and Development Authority (PFRDA) manages the scheme. The Ministry of Finance is the nodal ministry.",
+    "key_points": [
+      "Guaranteed monthly pension of ₹1,000-₹5,000 after 60 years",
+      "Government guarantees the pension amount — bears any deficit",
+      "Open to unorganised sector workers aged 18-40",
+      "Spouse gets same pension after subscriber's death"
+    ],
+    "tags": [
+      "pension",
+      "social security",
+      "old age",
+      "unorganised sector",
+      "retirement"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "source_link": "https://www.npscra.nsdl.co.in/nsdl-apy.php",
+    "constitutional_basis": "Article 41, 43",
+    "state": "central",
+    "ministry": "Ministry of Finance",
+    "target_group": [
+      "unorganized-workers",
+      "all"
+    ],
+    "benefit_type": "pension"
+  },
+  {
+    "id": "pm-ayushman-infrastructure",
+    "title": "PM Ayushman Bharat Health Infrastructure Mission",
+    "aka": "PMABHIM, Ayushman Bharat Infrastructure",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Flagship health infrastructure scheme to strengthen India's health system capacity from primary to tertiary care with a focus on pandemic preparedness and critical care.",
+    "details": "PMABHIM was announced in 2021 as the largest health infrastructure scheme with an outlay of Rs 64,180 crore over 5 years. It fills critical gaps in health infrastructure, surveillance, and human resources. Key components include: Integrated Public Health Labs in all districts, strengthening the National Centre for Disease Control (NCDC) with regional branches, Critical Care Hospital Blocks in 602+ districts, Health Emergency Operation Centres, and a national institution for One Health research. It also supports Block-level Public Health Units and 17,000+ Health and Wellness Centres under Ayushman Bharat.",
+    "key_points": [
+      "Rs 64,180 crore outlay — largest health infrastructure investment",
+      "Integrated Public Health Labs in every district, Critical Care blocks in 602+ districts",
+      "Strengthens One Health surveillance and pandemic preparedness"
+    ],
+    "tags": [
+      "health infrastructure",
+      "pandemic preparedness",
+      "critical care",
+      "public health",
+      "Ayushman Bharat"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "all",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://www.pmabhim.gov.in/",
+    "constitutional_basis": "Article 21, 47"
+  },
+  {
+    "id": "janani-shishu-suraksha",
+    "title": "Janani Shishu Suraksha Karyakram",
+    "aka": "JSSK, Free Maternal and Child Health",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2011,
+    "summary": "Entitlement scheme providing free maternal and child health services including delivery, C-section, medicines, diagnostics, and transport to all pregnant women and sick infants in public health institutions.",
+    "details": "JSSK launched in 2011 under NHM guarantees free cashless services to all pregnant women delivering in government health facilities: free delivery (normal or C-section), free medicines, free diagnostics, free blood transfusion, free diet during stay (3 days normal, 7 days C-section), and free transport. Sick infants up to 1 year also entitled to free treatment. No BPL restriction.",
+    "key_points": [
+      "Free delivery, medicines, diagnostics, and diet in government hospitals",
+      "Free transport — home to facility, referral, and drop-back",
+      "Covers all pregnant women and sick infants — no BPL restriction"
+    ],
+    "tags": [
+      "maternal health",
+      "child health",
+      "free delivery",
+      "NHM",
+      "JSSK"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "women",
+      "children"
+    ],
+    "benefit_type": "health",
+    "source_link": "https://nhm.gov.in/",
+    "constitutional_basis": "Article 21, 42, 47"
+  },
+  {
+    "id": "rashtriya-kishor-swashthya",
+    "title": "Rashtriya Kishor Swasthya Karyakram",
+    "aka": "RKSK, Adolescent Health Programme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2014,
+    "summary": "Comprehensive adolescent health programme covering sexual and reproductive health, nutrition, mental health, substance abuse, and injury prevention for ages 10-19.",
+    "details": "RKSK covers 253 million adolescents across seven thematic areas: Sexual and Reproductive Health, Nutrition, Mental Health, Substance Abuse Prevention, Injuries and Violence, NCDs, and Positive Health. Services through Adolescent Friendly Health Clinics (AFHCs), school health programmes, and peer educators (Saathiyas). Weekly Iron and Folic Acid Supplementation (WIFS) for anaemia control.",
+    "key_points": [
+      "Targets 253 million adolescents across seven health areas",
+      "Peer educators (Saathiyas) and AFHCs as delivery platforms",
+      "WIFS for anaemia control"
+    ],
+    "tags": [
+      "adolescent health",
+      "reproductive health",
+      "mental health",
+      "nutrition",
+      "NHM"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "youth",
+      "students"
+    ],
+    "benefit_type": "health",
+    "source_link": "https://nhm.gov.in/",
+    "constitutional_basis": "Article 21, 47"
+  },
+  {
+    "id": "national-mental-health",
+    "title": "National Mental Health Programme",
+    "aka": "NMHP, District Mental Health Programme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1982,
+    "summary": "Flagship mental healthcare programme covering the District Mental Health Programme (DMHP), mental health training, and awareness campaigns across India.",
+    "details": "NMHP has three components: DMHP in 700+ districts with counselling centres, psychiatrists, psychologists at district hospitals; Modernisation of Mental Hospitals; and Research and Training. Includes Tele-MANAS helpline (14416) launched in 2022 and the Manodarpan initiative for psychosocial support. Aligns with Mental Healthcare Act 2017.",
+    "key_points": [
+      "DMHP covers 700+ districts with counselling centres",
+      "Tele-MANAS helpline 14416 for 24x7 mental health counselling",
+      "Aligns with Mental Healthcare Act 2017"
+    ],
+    "tags": [
+      "mental health",
+      "counselling",
+      "DMHP",
+      "Tele-MANAS",
+      "health"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "all",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "health",
+    "source_link": "https://nhm.gov.in/",
+    "constitutional_basis": "Article 21, 47"
+  },
+  {
+    "id": "national-ncd",
+    "title": "National Programme for Prevention and Control of Non-Communicable Diseases",
+    "aka": "NP-NCD, NPCDCS",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2010,
+    "summary": "National programme for screening, early diagnosis, management of hypertension, diabetes, cardiovascular diseases, cancers, and chronic respiratory diseases at primary care level.",
+    "details": "NP-NCD provides free screening for individuals aged 30+ for five NCDs at Sub-Centres, PHCs, and through mobile health teams. NCD clinics established at district, CHC, and PHC levels. Includes population-based cancer registries, tobacco control (COTPA), and palliative care services.",
+    "key_points": [
+      "Free screening for hypertension, diabetes, 3 cancers, chronic respiratory diseases for 30+",
+      "NCD clinics at district, CHC, and PHC levels",
+      "Population-based screening through mobile health teams"
+    ],
+    "tags": [
+      "NCD",
+      "diabetes",
+      "hypertension",
+      "cancer",
+      "screening"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "all",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "health",
+    "source_link": "https://nhm.gov.in/",
+    "constitutional_basis": "Article 21, 47"
+  },
+  {
+    "id": "national-blindness",
+    "title": "National Programme for Control of Blindness and Visual Impairment",
+    "aka": "NPCBVI, Blindness Control Programme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1976,
+    "summary": "One of India's oldest health programmes focused on reducing blindness through cataract surgeries, school eye screening, diabetes retinopathy management, and free spectacles.",
+    "details": "NPCBVI targets reducing blindness prevalence from 1.1% to 0.3% by 2030. Over 60 lakh free cataract surgeries per year. School eye screening with free spectacles for children. District Blindness Control Societies in every district. Regional Institutes of Ophthalmology established.",
+    "key_points": [
+      "Over 60 lakh free cataract surgeries per year",
+      "School eye screening with free spectacles",
+      "District Blindness Control Societies in every district"
+    ],
+    "tags": [
+      "blindness",
+      "eye care",
+      "cataract",
+      "school screening",
+      "public health"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Health and Family Welfare",
+    "target_group": [
+      "all",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "health",
+    "source_link": "https://npcbvi.gov.in/",
+    "constitutional_basis": "Article 21, 47"
+  },
+  {
+    "id": "pm-shri",
+    "title": "PM SHRI Schools",
+    "aka": "PM Schools for Rising India",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2022,
+    "summary": "Develops 14,500+ exemplar schools following NEP 2020 with modern infrastructure, innovative pedagogy, and holistic education.",
+    "details": "PM SHRI (Schools for Rising India) launched in 2022 with Rs 27,360 crore outlay over 5 years. 14,595 schools developed as exemplar schools with smart classrooms, science/math labs, libraries, sports facilities, ICT, multilingual teaching, and vocational exposure from Class VI. Follows NEP 2020 with experiential learning, competency-based assessment, and teacher training.",
+    "key_points": [
+      "14,595 exemplar schools modelled on NEP 2020 — Rs 27,360 crore outlay",
+      "Smart classrooms, labs, multilingual teaching, vocational exposure",
+      "Green schools with modern infrastructure and community participation"
+    ],
+    "tags": [
+      "education",
+      "NEP 2020",
+      "exemplar schools",
+      "infrastructure",
+      "smart classrooms"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "students",
+      "children"
+    ],
+    "benefit_type": "education",
+    "source_link": "https://pmshrischools.education.gov.in/",
+    "constitutional_basis": "Article 21A, 45"
+  },
+  {
+    "id": "pm-vidyalaxmi",
+    "title": "PM Vidyalaxmi",
+    "aka": "PM Education Loan Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2024,
+    "summary": "Collateral-free interest-subvented education loans up to Rs 10 lakh for meritorious students from economically weaker families for higher education.",
+    "details": "PM Vidyalaxmi was announced in Union Budget 2024-25. Provides collateral-free loans up to Rs 10 lakh for students with 75% in Class XII pursuing higher education in 873 top-ranked institutions. Interest subvention of 3% for family income up to Rs 8 lakh during moratorium.",
+    "key_points": [
+      "Collateral-free education loan up to Rs 10 lakh for 873 listed institutions",
+      "3% interest subvention for income up to Rs 8 lakh",
+      "Common portal for loans and scholarships"
+    ],
+    "tags": [
+      "education loan",
+      "higher education",
+      "interest subvention",
+      "students",
+      "financial aid"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Finance",
+    "target_group": [
+      "students",
+      "youth"
+    ],
+    "benefit_type": "scholarship",
+    "source_link": "https://www.pmvidyalaxmi.co.in/",
+    "constitutional_basis": "Article 21A, 41, 46"
+  },
+  {
+    "id": "nalanda",
+    "title": "Nalanda Project",
+    "aka": "Nalanda Digital Library Project",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2023,
+    "summary": "Digital library initiative providing free access to curated digital content, e-books, and learning resources in government schools across India.",
+    "details": "The Nalanda Project sets up digital libraries in government schools with curated age-appropriate content: e-books, audiobooks, videos, simulations, assessments in multiple Indian languages. Integrated with DIKSHA platform and NEP 2020 curriculum. Offline content access for areas with poor internet.",
+    "key_points": [
+      "Digital libraries with curated content in multiple Indian languages",
+      "Integrated with DIKSHA and NEP 2020-aligned",
+      "Offline access for areas with poor internet"
+    ],
+    "tags": [
+      "digital library",
+      "education",
+      "e-books",
+      "DIKSHA",
+      "NEP 2020"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "students",
+      "children",
+      "rural"
+    ],
+    "benefit_type": "education",
+    "source_link": "https://www.education.gov.in/",
+    "constitutional_basis": "Article 21A, 45"
+  },
+  {
+    "id": "national-digital-education",
+    "title": "National Digital Education Architecture",
+    "aka": "NDEAR, Digital Education Architecture",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Digital infrastructure framework enabling interoperable, modular, open-architecture digital platforms for teaching, learning, and school administration.",
+    "details": "NDEAR is a set of principles and building blocks for creating interoperable digital education ecosystems. Federated unbundled approach — states combine digital building blocks (student registry, teacher registry, content, assessment) from shared public digital infrastructure. Integrates DIKSHA, UDISE+, APAAR.",
+    "key_points": [
+      "Interoperable digital building blocks — not a single platform",
+      "Federated approach for states to combine components",
+      "Integration with DIKSHA, UDISE+, APAAR"
+    ],
+    "tags": [
+      "digital education",
+      "NEP 2020",
+      "DIKSHA",
+      "interoperability",
+      "EdTech"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "students",
+      "students"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://www.education.gov.in/ndear",
+    "constitutional_basis": "Article 21A, 45"
+  },
+  {
+    "id": "nishtha",
+    "title": "NISHTHA Teacher Training Programme",
+    "aka": "National Initiative for School Heads and Teachers Holistic Advancement",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2019,
+    "summary": "World's largest teacher training programme providing integrated in-service training to 42 lakh teachers on pedagogy, child-centred learning, and NEP 2020.",
+    "details": "NISHTHA launched in 2019 to train 42 lakh teachers. Blended model: face-to-face cascaded training + online on DIKSHA. Covers 18 modules including pedagogy, inclusive education, school leadership, health, ICT, art-integrated learning. NISHTHA 1.0 (elementary), 2.0 (secondary), 3.0 (pre-primary), 4.0 (FLN).",
+    "key_points": [
+      "World's largest — 42 lakh teachers trained",
+      "Blended: face-to-face + DIKSHA online modules",
+      "Versions for elementary, secondary, pre-primary, FLN"
+    ],
+    "tags": [
+      "teacher training",
+      "NEP 2020",
+      "professional development",
+      "education",
+      "pedagogy"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Education",
+    "target_group": [
+      "students"
+    ],
+    "benefit_type": "education",
+    "source_link": "https://nishtha.ncert.gov.in/",
+    "constitutional_basis": "Article 21A, 45"
+  },
+  {
+    "id": "pm-kusum",
+    "title": "PM KUSUM",
+    "aka": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2019,
+    "summary": "Energy security for farmers through solar pumps and grid-connected solar power plants, reducing diesel dependence and improving farm income.",
+    "details": "PM KUSUM targets 30.8 GW solar capacity by 2026. Component A: 10,000 MW ground-mounted grid-connected solar plants on barren land. Component B: 17.5 lakh standalone solar pumps. Component C: Solarisation of 10 lakh grid-connected pumps. Subsidies 30-60% with bank loans for balance.",
+    "key_points": [
+      "Solar pumps and grid-connected plants — 30.8 GW target",
+      "Three components: solar plants, standalone pumps, pump solarisation",
+      "Excess power sale to grid for additional income"
+    ],
+    "tags": [
+      "solar energy",
+      "farmers",
+      "irrigation",
+      "renewable energy",
+      "KUSUM"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of New and Renewable Energy",
+    "target_group": [
+      "farmers",
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://mnre.gov.in/schemes/pm-kusum/",
+    "constitutional_basis": "Article 38, 39(b), 48A"
+  },
+  {
+    "id": "pm-gramin-digital",
+    "title": "PM Gramin Digital Saksharta Abhiyan",
+    "aka": "PMGDISHA, Digital Literacy Mission",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2017,
+    "summary": "Makes 6 crore rural households digitally literate, enabling operation of computers, smartphones, digital payments, and online government services.",
+    "details": "PMGDISHA targets one person per rural household with 20 hours of basic digital literacy training covering computers, smartphones, internet, email, UPI/BHIM, e-governance, cybersecurity. Delivered through CSCs and training partners. Over 5 crore trained.",
+    "key_points": [
+      "Targets 6 crore rural households with 20-hour digital training",
+      "Computers, smartphones, digital payments, e-governance",
+      "Delivered through CSCs — certified assessment"
+    ],
+    "tags": [
+      "digital literacy",
+      "rural",
+      "smartphone",
+      "digital payments",
+      "e-governance"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Electronics and Information Technology",
+    "target_group": [
+      "rural",
+      "women",
+      "bpl-families"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "https://www.pmgdisha.in/",
+    "constitutional_basis": "Article 38, 39(b)"
+  },
+  {
+    "id": "day-nulum",
+    "title": "Deendayal Antyodaya Yojana — National Urban Livelihoods Mission",
+    "aka": "DAY-NULM, NULM",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2013,
+    "summary": "Urban poverty alleviation programme organising urban poor into SHGs with skill training, micro-credit, and livelihood support.",
+    "details": "DAY-NULM mirrors DAY-NRLM for urban areas. Components: Social Mobilisation (SHGs and federations), EST&P (skill training with placement), Self-Employment Programme (micro-enterprise loans at 7% subvented to 4% for women), Support to Urban Street Vendors, and Shelters for Urban Homeless.",
+    "key_points": [
+      "Urban SHG-based poverty alleviation — mirror of DAY-NRLM for cities",
+      "Skill training with placement and micro-enterprise loans",
+      "Shelters for urban homeless and street vending zones"
+    ],
+    "tags": [
+      "urban poverty",
+      "livelihood",
+      "SHG",
+      "skill training",
+      "urban homeless"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_group": [
+      "urban",
+      "bpl-families",
+      "women"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "https://nulm.gov.in/",
+    "constitutional_basis": "Article 38, 39(a), 43"
+  },
+  {
+    "id": "pm-e-bus",
+    "title": "PM e-Bus Sewa Scheme",
+    "aka": "e-Bus Scheme, Electric Bus Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2023,
+    "summary": "Deploys 10,000 electric buses in 169 cities under PPP model, focusing on cities with no organised bus service and green mobility.",
+    "details": "PM e-Bus Sewa launched in 2023 with Rs 57,613 crore outlay for 10 years. 10,000 e-buses in 169 cities (100 with no organised bus service). Gross Cost Contract model — private operator runs buses, government pays per km. Wheelchair-accessible e-buses with CCTV, GPS, panic buttons.",
+    "key_points": [
+      "10,000 electric buses in 169 cities — Rs 57,613 crore",
+      "100 cities with no organised bus service get priority",
+      "GCC model — private operator, government pays per km"
+    ],
+    "tags": [
+      "electric buses",
+      "urban transport",
+      "green mobility",
+      "e-bus",
+      "infrastructure"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_group": [
+      "urban",
+      "all"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://pme-bussewa.gov.in/",
+    "constitutional_basis": "Article 38, 48A"
+  },
+  {
+    "id": "pm-daksh",
+    "title": "PM DAKSH",
+    "aka": "Pradhan Mantri DAKSH Yojana",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Skill development and employability enhancement for SC/ST/OBC/EBC youth with free coaching, skill training, and competitive exam preparation.",
+    "details": "PM DAKSH covers coaching for competitive exams (UPSC, SSC, banking, defence, state PSCs), computer proficiency, technical skills, entrepreneurship development. Implemented through NSFDC, NSKFDC, NBCFDC, NAFDC. Includes hostel, study material, stipend.",
+    "key_points": [
+      "Free coaching, skill development, exam prep for SC/ST/OBC/EBC",
+      "Implementing agencies: NSFDC, NSKFDC, NBCFDC, NAFDC",
+      "Hostel, study material, stipend, online coaching"
+    ],
+    "tags": [
+      "skill development",
+      "competitive exam",
+      "SC/ST/OBC",
+      "coaching",
+      "employment"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "youth",
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "https://socialjustice.gov.in/schemes",
+    "constitutional_basis": "Article 15(4), 15(5), 46"
+  },
+  {
+    "id": "pre-matric-sc",
+    "title": "Pre-Matric Scholarship for SC Students",
+    "aka": "Pre-Matric SC Scholarship",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2010,
+    "summary": "Financial support to SC students in Classes IX and X to reduce dropout rates and ensure continuation of secondary education.",
+    "details": "Centrally sponsored scheme (60:40 centre-state). Monthly maintenance: Rs 225 hosteller, Rs 150 day scholar. Annual book allowance Rs 1,000. Additional Rs 300/month for disabled. Family income ceiling Rs 2.5 lakh. NSP portal application.",
+    "key_points": [
+      "Monthly allowance Rs 225 hosteller / Rs 150 day scholar for IX-X",
+      "Annual book allowance Rs 1,000",
+      "Family income ceiling Rs 2.5 lakh — NSP portal"
+    ],
+    "tags": [
+      "scholarship",
+      "SC",
+      "education",
+      "pre-matric",
+      "secondary school"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "scholarship",
+    "source_link": "https://scholarships.gov.in/",
+    "constitutional_basis": "Article 15(4), 46"
+  },
+  {
+    "id": "post-matric-sc",
+    "title": "Post-Matric Scholarship for SC Students",
+    "aka": "Post-Matric SC Scholarship, PMS-SC",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2010,
+    "summary": "Financial assistance to SC students in post-matric education covering tuition, maintenance, and other expenses from Class XI to PhD.",
+    "details": "Covers Classes XI-XII, UG, PG, PhD, professional courses. Tuition fee reimbursement, maintenance allowance (Rs 750/month hosteller, Rs 350 day scholar for UG+), study tour, thesis costs, reader charges for blind. Income ceiling Rs 2.5 lakh.",
+    "key_points": [
+      "Classes XI-XII to PhD and professional courses covered",
+      "Tuition fee reimbursement and maintenance allowance",
+      "Income ceiling Rs 2.5 lakh"
+    ],
+    "tags": [
+      "scholarship",
+      "SC",
+      "post-matric",
+      "higher education",
+      "tuition fee"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "scholarship",
+    "source_link": "https://scholarships.gov.in/",
+    "constitutional_basis": "Article 15(4), 46"
+  },
+  {
+    "id": "national-fellowship-scst",
+    "title": "National Fellowship for Higher Education of ST/SC Students",
+    "aka": "NFHEST/NFHESC, Rajiv Gandhi National Fellowship",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2005,
+    "summary": "Fellowship for SC and ST students pursuing M.Phil and PhD with full financial support including stipend and contingency.",
+    "details": "Provides Rs 37,000/month (first 2 years) and Rs 42,000/month (remaining) for M.Phil/PhD. Contingency Rs 10,000-20,000/year. 2,000 SC and 750 ST slots annually. UGC implementation.",
+    "key_points": [
+      "Rs 37,000-42,000/month stipend for M.Phil/PhD",
+      "2,000 SC and 750 ST slots annually",
+      "Contingency grant and departmental assistance"
+    ],
+    "tags": [
+      "fellowship",
+      "PhD",
+      "M.Phil",
+      "research",
+      "SC/ST",
+      "higher education"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": [
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "scholarship",
+    "source_link": "https://www.ugc.ac.in/",
+    "constitutional_basis": "Article 15(4), 46"
+  },
+  {
+    "id": "pm-agniveer",
+    "title": "Agnipath Scheme / PM AGNIVEER",
+    "aka": "Agnipath, Agneepath, Agneerveer",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2022,
+    "summary": "Short-term military recruitment scheme enrolling youth as Agniveers for 4 years, with 25% retained for permanent commission and rest receiving a one-time lump sum.",
+    "details": "Youth aged 17.5-21 recruited as Agniveers for 4 years (6 months training). Monthly salary Rs 30,000+ with allowances. After 4 years, 25% selected for permanent enrolment. 75% exit with Seva Nidhi of Rs 11.71 lakh (tax-free) plus skill certificate and Class XII equivalent.",
+    "key_points": [
+      "4-year service with Rs 30,000+/month salary + Seva Nidhi Rs 11.71 lakh",
+      "25% retained for permanent commission",
+      "Applies to Army, Navy, Air Force"
+    ],
+    "tags": [
+      "defence",
+      "military",
+      "agniveer",
+      "employment",
+      "youth"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Defence",
+    "target_group": [
+      "youth"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "https://agnipath.gov.in/",
+    "constitutional_basis": "Article 51A(d)"
+  },
+  {
+    "id": "pm-janman",
+    "title": "PM Janjati Adivasi Nyaya Maha Abhiyan",
+    "aka": "PM-JANMAN, Janjati Abhiyan",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2023,
+    "summary": "Comprehensive mission for 75 PVTG communities across 18 states with saturation of 11 basic services including housing, water, electricity, roads, health, education.",
+    "details": "PM-JANMAN launched in 2023 with Rs 24,104 crore. Covers 75 PVTG communities in 18 states. 11 interventions: pucca houses (PMAY), piped water (JJM), electricity, roads (PMGSY), mobile/digital connectivity, health (Ayushman), education, LPG (Ujjwala), financial inclusion, skill development. Convergence model.",
+    "key_points": [
+      "Saturation of 11 basic services in 75 PVTG communities — Rs 24,104 crore",
+      "Convergence: PMAY, JJM, Saubhagya, PMGSY, Ujjwala, Ayushman",
+      "Launched on Janjatiya Gaurav Diwas"
+    ],
+    "tags": [
+      "PVTG",
+      "tribal",
+      "basic infrastructure",
+      "saturation",
+      "convergence"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Tribal Affairs",
+    "target_group": [
+      "tribal",
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://tribal.gov.in/",
+    "constitutional_basis": "Article 46, 244, Fifth Schedule, Sixth Schedule"
+  },
+  {
+    "id": "ekalavya",
+    "title": "Eklavya Model Residential Schools",
+    "aka": "EMRS",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1997,
+    "summary": "Residential schools in tribal areas providing quality education (VI-XII) with free boarding, lodging, and facilities for ST students.",
+    "details": "One EMRS per block with 50%+ ST population. Free residential education Classes VI-XII, free boarding, lodging, textbooks, uniforms, CBSE curriculum, ICT classrooms, vocational labs, sports facilities. NESTS under Ministry of Tribal Affairs.",
+    "key_points": [
+      "One EMRS per tribal block — residential Classes VI-XII",
+      "Free boarding, lodging, textbooks, uniforms — CBSE",
+      "Managed by NESTS — 740+ schools planned"
+    ],
+    "tags": [
+      "tribal education",
+      "residential school",
+      "EMRS",
+      "ST",
+      "free education"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Tribal Affairs",
+    "target_group": [
+      "tribal",
+      "students",
+      "children"
+    ],
+    "benefit_type": "education",
+    "source_link": "https://tribal.gov.in/emrs",
+    "constitutional_basis": "Article 15(4), 46, 244"
+  },
+  {
+    "id": "van-dhan",
+    "title": "Van Dhan Yojana",
+    "aka": "Van Dhan, Minor Forest Produce Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Skill-based livelihood programme creating tribal-owned enterprises for value addition, processing, and marketing of Minor Forest Produce (MFP).",
+    "details": "Van Dhan Vikas Kendras (VDVKs) at gram panchayat level, each benefitting 300 tribal gatherers. Tribal collectives formed into VD-SHGs. Working capital for MFP procurement, processing equipment, market linkages through TRIFED. MSP for MFP also provided.",
+    "key_points": [
+      "VDVKs for tribal MFPs — value addition at village level",
+      "Processing equipment and working capital to VD-SHGs",
+      "Marketing through TRIFED Tribes India outlets"
+    ],
+    "tags": [
+      "tribal",
+      "livelihood",
+      "MFP",
+      "Van Dhan",
+      "TRIFED",
+      "forest produce"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Tribal Affairs",
+    "target_group": [
+      "tribal",
+      "rural",
+      "women"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "https://trifed.tribal.gov.in/van-dhan",
+    "constitutional_basis": "Article 46, 244"
+  },
+  {
+    "id": "tribal-fellowship",
+    "title": "National Fellowship for ST Students",
+    "aka": "NFST, Rajiv Gandhi National Fellowship for ST",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2005,
+    "summary": "Fellowship for ST students pursuing M.Phil and PhD with full financial support.",
+    "details": "Rs 37,000/month (first 2 years) and Rs 42,000/month (remaining) for M.Phil/PhD. Contingency up to Rs 20,000/year. 750 ST slots annually. UGC implementation.",
+    "key_points": [
+      "Rs 37,000-42,000/month stipend for M.Phil/PhD",
+      "750 ST slots annually",
+      "Contingency grant and departmental assistance"
+    ],
+    "tags": [
+      "fellowship",
+      "ST",
+      "PhD",
+      "research",
+      "higher education"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Tribal Affairs",
+    "target_group": [
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "scholarship",
+    "source_link": "https://tribal.nic.in/",
+    "constitutional_basis": "Article 15(4), 46"
+  },
+  {
+    "id": "swadhar-greh",
+    "title": "Swadhar Greh Scheme",
+    "aka": "Swadhar, Shelter for Women in Distress",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2002,
+    "summary": "Temporary shelter, food, clothing, medical care, counselling, and vocational training for women in difficult circumstances.",
+    "details": "Shelter for women victims of domestic violence, widows, women released from prison, trafficked women, HIV-affected women, destitute women. Up to 1 year stay, medical care, counselling, legal aid, vocational training. 30-50 women per home. Subsumed under Mission Shakti Samarthya.",
+    "key_points": [
+      "Shelter, food, medical care, counselling, legal aid for women in distress",
+      "Covers violence survivors, widows, trafficked women",
+      "Up to 1 year stay with vocational training"
+    ],
+    "tags": [
+      "shelter",
+      "women",
+      "distress",
+      "rehabilitation",
+      "violence"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "health",
+    "source_link": "https://wcd.nic.in/schemes/swadhar-greh",
+    "constitutional_basis": "Article 14, 15(3), 21, 39(e)"
+  },
+  {
+    "id": "nirbhaya",
+    "title": "Nirbhaya Fund Projects",
+    "aka": "Nirbhaya Fund, Women Safety Fund",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2013,
+    "summary": "Dedicated fund for women safety initiatives including emergency response, forensics, street lighting, public transport safety.",
+    "details": "Established after 2012 Delhi gangrape case. Rs 1,000 crore+ corpus. Projects: ERSS 112 (single emergency number), Safe City projects in 8 cities, One Stop Centres, Women Helpline 181, forensic labs, CCTV in public transport, GPS tracking, street lighting.",
+    "key_points": [
+      "Rs 1,000 crore+ corpus for women safety",
+      "Safe City projects, ERSS 112, CCTV networks",
+      "Multi-ministry implementation"
+    ],
+    "tags": [
+      "women safety",
+      "Nirbhaya",
+      "emergency response",
+      "CCTV",
+      "public safety"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://wcd.nic.in/schemes/nirbhaya-fund",
+    "constitutional_basis": "Article 14, 15(3), 21"
+  },
+  {
+    "id": "pm-sym",
+    "title": "PM Shram Yogi Maan-dhan",
+    "aka": "PM-SYM, Pension for Unorganised Workers",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2019,
+    "summary": "Pension scheme for unorganised workers aged 18-40 providing guaranteed monthly pension of Rs 3,000 after 60 with nominal contribution.",
+    "details": "Subscribers contribute Rs 55-200/month (age-dependent) until 60. Government matches contribution. Guaranteed Rs 3,000/month pension for life. Spouse gets 50% after subscriber's death. Covers domestic workers, street vendors, rickshaw pullers, construction workers.",
+    "key_points": [
+      "Guaranteed Rs 3,000/month pension after 60",
+      "Government matches contribution (Rs 55-200/month)",
+      "Spouse gets 50% pension after subscriber's death"
+    ],
+    "tags": [
+      "pension",
+      "unorganised workers",
+      "social security",
+      "PM-SYM",
+      "old age"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "unorganized-workers",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "pension",
+    "source_link": "https://labour.gov.in/pm-sym",
+    "constitutional_basis": "Article 41, 43"
+  },
+  {
+    "id": "esic",
+    "title": "Employees State Insurance Scheme",
+    "aka": "ESIC, ESI Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1952,
+    "summary": "Social security and health insurance for organised sector workers earning up to Rs 21,000/month with comprehensive medical care and cash benefits.",
+    "details": "Contributory: employee 0.75%, employer 3.25% of wages. Covers medical care, sickness benefit (70% wages for 91 days), maternity (100% for 26 weeks), disablement, dependent benefit, funeral expenses. 13+ crore beneficiaries.",
+    "key_points": [
+      "Medical care + cash benefits for organised workers",
+      "Employee 0.75%, employer 3.25% contribution",
+      "13+ crore beneficiaries through hospitals nationwide"
+    ],
+    "tags": [
+      "health insurance",
+      "social security",
+      "ESIC",
+      "organised workers",
+      "medical care"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "unorganized-workers",
+      "urban"
+    ],
+    "benefit_type": "insurance",
+    "source_link": "https://www.esic.gov.in/",
+    "constitutional_basis": "Article 41, 42, 43"
+  },
+  {
+    "id": "epfo",
+    "title": "Employees Provident Fund Organisation",
+    "aka": "EPFO, PF Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 1952,
+    "summary": "Mandatory social security for organised sector employees with retirement savings (PF), pension (EPS), and insurance (EDLI).",
+    "details": "Three schemes: EPF (employee 12%, employer 3.67%, 8.25% interest), EPS (employer 8.33%, monthly pension after 58), EDLI (employer 0.5%, insurance up to Rs 7 lakh). Mandatory for 20+ employee establishments.",
+    "key_points": [
+      "EPF, EPS, EDLI under one umbrella",
+      "Employee 12%, employer 12% total contribution",
+      "7+ crore active members"
+    ],
+    "tags": [
+      "provident fund",
+      "pension",
+      "retirement",
+      "social security",
+      "EPFO"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "unorganized-workers",
+      "urban",
+      "all"
+    ],
+    "benefit_type": "pension",
+    "source_link": "https://www.epfindia.gov.in/",
+    "constitutional_basis": "Article 41, 43"
+  },
+  {
+    "id": "national-career",
+    "title": "National Career Service",
+    "aka": "NCS, Career Service Portal",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Digital platform connecting job seekers and employers with career counselling, skills assessment, and job fairs.",
+    "details": "NCS portal with AI-based job matching. 2+ crore registered job seekers, 20+ lakh employers. Career counselling helpline 1800-425-1514, 1,000+ model career centres. Virtual job fairs. Interoperable with state employment exchanges.",
+    "key_points": [
+      "2+ crore job seekers, 20+ lakh employers on portal",
+      "Helpline 1800-425-1514 and 1,000+ career centres",
+      "AI-based job matching and virtual job fairs"
+    ],
+    "tags": [
+      "employment",
+      "job portal",
+      "career counselling",
+      "digital platform",
+      "skill assessment"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_group": [
+      "youth",
+      "students",
+      "women",
+      "all"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "https://www.ncs.gov.in/",
+    "constitutional_basis": "Article 38, 41, 43"
+  },
+  {
+    "id": "pmfby",
+    "title": "Pradhan Mantri Fasal Bima Yojana",
+    "aka": "PMFBY, Crop Insurance Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2016,
+    "summary": "Crop insurance with uniform premium of 2% kharif, 1.5% rabi, 5% commercial crops covering natural calamities, pests, and diseases.",
+    "details": "Farmers pay 2% (kharif), 1.5% (rabi), 5% (commercial) of sum insured. Balance shared by centre and state. Covers prevented sowing, standing crop loss, post-harvest loss, localised calamities. Technology-driven yield estimation via satellite.",
+    "key_points": [
+      "Crop insurance at 2% kharif, 1.5% rabi, 5% commercial",
+      "Covers prevented sowing, standing crop, post-harvest loss",
+      "Satellite-based yield estimation and DBT"
+    ],
+    "tags": [
+      "crop insurance",
+      "farmers",
+      "agriculture",
+      "risk coverage",
+      "PMFBY"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "target_group": [
+      "farmers",
+      "rural"
+    ],
+    "benefit_type": "insurance",
+    "source_link": "https://pmfby.gov.in/",
+    "constitutional_basis": "Article 38, 39(a), 48"
+  },
+  {
+    "id": "pmksy",
+    "title": "Pradhan Mantri Krishi Sinchayee Yojana",
+    "aka": "PMKSY, Per Drop More Crop",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Irrigation scheme with goal of Har Khet Ko Pani and Per Drop More Crop through micro-irrigation, watershed management, and source creation.",
+    "details": "Three components: AIBP (99 major/medium projects), HKKP (surface minor irrigation, water body restoration), Watershed Development. 55% subsidy for drip/sprinkler for small/marginal farmers. Decentralised planning through DIP/SIP.",
+    "key_points": [
+      "AIBP, HKKP, Watershed components",
+      "55% subsidy for micro-irrigation for small farmers",
+      "District and State Irrigation Plans"
+    ],
+    "tags": [
+      "irrigation",
+      "agriculture",
+      "watershed",
+      "water conservation",
+      "PMKSY"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "target_group": [
+      "farmers",
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://pmksy.gov.in/",
+    "constitutional_basis": "Article 38, 48"
+  },
+  {
+    "id": "pkvy",
+    "title": "Paramparagat Krishi Vikas Yojana",
+    "aka": "PKVY, Organic Farming Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Promotes organic farming through cluster-based approach with financial assistance of Rs 50,000/ha for 3 years for certification, inputs, and market linkage.",
+    "details": "Cluster approach (50+ acre each). Rs 50,000/ha for 3 years covering on-farm inputs, PGS certification, training, post-harvest management. Priority to small/marginal farmers and NE states. India has world's highest organic farmers.",
+    "key_points": [
+      "Rs 50,000/ha over 3 years for certified organic farming",
+      "PGS certification and post-harvest management",
+      "World's highest number of organic farmers"
+    ],
+    "tags": [
+      "organic farming",
+      "agriculture",
+      "certification",
+      "PKVY",
+      "sustainable agriculture"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "target_group": [
+      "farmers",
+      "rural"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "https://pkvy.dac.gov.in/",
+    "constitutional_basis": "Article 38, 48, 48A"
+  },
+  {
+    "id": "soil-health",
+    "title": "Soil Health Card Scheme",
+    "aka": "SHC, Soil Health Management",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Provides farmers with Soil Health Card containing crop-wise nutrient recommendations to improve soil fertility and reduce fertiliser overuse.",
+    "details": "Every farmer receives SHC every 2 years with 12 soil parameters and crop-specific fertiliser recommendations. Soil samples tested at state/district labs. 28+ crore cards distributed. Integrated with PM-KISAN and NeGPA.",
+    "key_points": [
+      "Personalised SHC with 12 soil parameters every 2 years",
+      "28+ crore cards distributed",
+      "Reduced urea consumption and increased micronutrient awareness"
+    ],
+    "tags": [
+      "soil health",
+      "fertiliser",
+      "agriculture",
+      "nutrient management",
+      "soil testing"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "target_group": [
+      "farmers",
+      "rural"
+    ],
+    "benefit_type": "in-kind",
+    "source_link": "https://soilhealth.dac.gov.in/",
+    "constitutional_basis": "Article 38, 48"
+  },
+  {
+    "id": "pm-vishwakarma",
+    "title": "PM Vishwakarma Yojana",
+    "aka": "PM Vishwakarma, Artisan Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2023,
+    "summary": "Scheme for traditional artisans in 18 trades providing skill training, toolkit grants, collateral-free credit, and digital literacy.",
+    "details": "Launched in 2023 with Rs 13,000 crore. 18 trades: carpenter, blacksmith, potter, sculptor, goldsmith, tailor, weaver, cobbler, mason, etc. Benefits: certificate/ID, skill training with Rs 500/day stipend, toolkit grant Rs 15,000, credit up to Rs 2 lakh at 5% interest.",
+    "key_points": [
+      "18 traditional artisan trades — certificate, ID, skill training",
+      "Toolkit grant Rs 15,000 + credit up to Rs 2 lakh at 5%",
+      "Rs 13,000 crore outlay"
+    ],
+    "tags": [
+      "artisans",
+      "craftspeople",
+      "skill training",
+      "credit",
+      "MSME"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "target_group": [
+      "small-business",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "https://pmvishwakarma.gov.in/",
+    "constitutional_basis": "Article 38, 43"
+  },
+  {
+    "id": "amrut",
+    "title": "Atal Mission for Rejuvenation and Urban Transformation",
+    "aka": "AMRUT 2.0, Urban Infrastructure Mission",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Urban infrastructure mission providing universal water supply and sewerage/septage connections in 500+ cities with water conservation focus.",
+    "details": "AMRUT 2.0 (2021-26) has Rs 2.87 lakh crore outlay. Universal tap connections, sewerage/septage management, water body rejuvenation, rainwater harvesting, Pey Jal Survekshan. Circular economy: treated wastewater reuse.",
+    "key_points": [
+      "Universal water supply and sewerage in 500+ cities",
+      "Rs 2.87 lakh crore outlay",
+      "Circular economy — treated wastewater reuse"
+    ],
+    "tags": [
+      "urban",
+      "water supply",
+      "sewerage",
+      "AMRUT",
+      "urban infrastructure"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_group": [
+      "urban",
+      "all"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://amrut.gov.in/",
+    "constitutional_basis": "Article 21, 38, 48A"
+  },
+  {
+    "id": "smart-cities",
+    "title": "Smart Cities Mission",
+    "aka": "SCM, Smart City Mission",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Urban renewal mission developing 100 selected cities with core infrastructure, citizen-friendly governance, and technology-driven solutions.",
+    "details": "100 cities with area-based development (retrofit, redevelop, greenfield) and pan-city ICT solutions. Rs 500 crore per city via SPV. 7,000+ projects worth Rs 1.8 lakh crore completed. IUDX for data-driven governance.",
+    "key_points": [
+      "100 cities with area-based development + ICT solutions",
+      "Rs 500 crore per city — 7,000+ projects completed",
+      "Core infrastructure + e-governance + climate resilience"
+    ],
+    "tags": [
+      "smart city",
+      "urban",
+      "technology",
+      "e-governance",
+      "infrastructure"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_group": [
+      "urban",
+      "all"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "https://smartcities.gov.in/",
+    "constitutional_basis": "Article 38, 243W"
+  },
+  {
+    "id": "jh-mukhyamantri-gram-gati",
+    "title": "Mukhyamantri Gram Gati Yojana",
+    "aka": "Gram Gati Yojana, Rural Road Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "State rural road connectivity scheme connecting unconnected habitations with all-weather roads complementing PMGSY in Jharkhand.",
+    "details": "Mukhyamantri Gram Gati Yojana provides all-weather road connectivity to rural habitations not covered under PMGSY. Prioritises LWE-affected and tribal-dominated blocks. Gram Sabha selects priority roads. Includes road maintenance and culvert/bridge construction.",
+    "key_points": [
+      "Road connectivity beyond PMGSY coverage",
+      "Priority to LWE-affected and tribal blocks",
+      "Gram Sabha selects priorities"
+    ],
+    "tags": [
+      "rural roads",
+      "connectivity",
+      "infrastructure",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-savitribai-phule",
+    "title": "Savitribai Phule Kishori Samridhi Yojana",
+    "aka": "Savitribai Phule Scheme, Kishori Samridhi",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Financial inclusion and skill development for adolescent girls aged 14-18 from BPL families in Jharkhand.",
+    "details": "Bank account opened with initial government deposit of Rs 2,000. Annual scholarship based on class and performance. Skill training in stitching, handicrafts, computer literacy. Disbursement at age 18 for education or skill training.",
+    "key_points": [
+      "Bank account with Rs 2,000 deposit for BPL girls 14-18",
+      "Annual scholarship and skill training",
+      "Disbursement at 18 for education/skills"
+    ],
+    "tags": [
+      "girl child",
+      "savings",
+      "skill development",
+      "school education",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "girl-child"
+    ],
+    "benefit_type": "education",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-poshan",
+    "title": "Mukhyamantri Poshan Yojana",
+    "aka": "MPY, Jharkhand Nutrition Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2022,
+    "summary": "State nutrition programme supplementing ICDS and PM POSHAN with fortified food for children, pregnant women, and lactating mothers.",
+    "details": "Fortified take-home rations through Anganwadi centres. Community-based management of acute malnutrition (CMAM). Nutrition awareness campaigns. Complements POSHAN Abhiyaan with additional state funding.",
+    "key_points": [
+      "Fortified take-home rations through Anganwadi centres",
+      "Focus on severe malnutrition in tribal areas",
+      "CMAM component"
+    ],
+    "tags": [
+      "nutrition",
+      "malnutrition",
+      "children",
+      "women",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "children",
+      "women"
+    ],
+    "benefit_type": "nutrition",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-swasthya",
+    "title": "Mukhyamantri Swasthya Bima Yojana",
+    "aka": "MSBY, Jharkhand Health Insurance",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "State health insurance providing cashless cover up to Rs 5 lakh per family to uninsured families not covered under PM-JAY.",
+    "details": "Rs 5 lakh per family cashless hospitalisation. Covers all ration card holders not covered by PM-JAY. Pre-existing diseases covered from day one. Uses same hospital network as PM-JAY in Jharkhand.",
+    "key_points": [
+      "Rs 5 lakh per family for non-PM-JAY families",
+      "Pre-existing diseases from day one",
+      "Integrates with PM-JAY hospital network"
+    ],
+    "tags": [
+      "health insurance",
+      "cashless treatment",
+      "BPL",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "bpl-families",
+      "rural"
+    ],
+    "benefit_type": "insurance",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-rojgar-srijan",
+    "title": "Jharkhand Rojgar Srijan Yojana",
+    "aka": "Employment Generation Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Skill training and placement for unemployed youth in Jharkhand with focus on SC/ST/OBC/minority communities.",
+    "details": "Targets youth aged 18-35 (Class VIII to PG). 3-6 month training in mining, textiles, IT, tourism, hospitality. Stipend during training. Entrepreneurship development. Linkages with PMKVY and DDU-GKY.",
+    "key_points": [
+      "Skill training in mining, textiles, IT, tourism, hospitality",
+      "Stipend + placement assistance",
+      "Focus on SC/ST/OBC/minority youth"
+    ],
+    "tags": [
+      "employment",
+      "skill training",
+      "youth",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "youth",
+      "tribal"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-jal-sanjay",
+    "title": "Jal Sanjay Yojana",
+    "aka": "Jal Sanjay, Water Conservation Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Community-led water conservation and rainwater harvesting in drought-prone blocks of Jharkhand.",
+    "details": "Desilting and rejuvenation of ponds, wells, traditional water bodies. Check dams, farm ponds, rooftop rainwater harvesting. Watershed management. Village Water and Sanitation Committees involved.",
+    "key_points": [
+      "Rejuvenation of traditional water bodies in drought-prone blocks",
+      "Check dams, farm ponds, rooftop harvesting",
+      "Community-led through VWSC"
+    ],
+    "tags": [
+      "water conservation",
+      "rainwater harvesting",
+      "drought",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-birsa-harana",
+    "title": "Birsa Haran Ja Aa Yojana",
+    "aka": "Birsa Irrigation Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Irrigation scheme providing free diesel pumpsets and irrigation facilities to tribal and small farmers in Jharkhand.",
+    "details": "Free diesel pumpsets and pipes for rabi/summer cultivation. Community lift irrigation points on rivers/streams. All installation and fuel costs covered for first year.",
+    "key_points": [
+      "Free diesel pumpsets and pipes for tribal farmers",
+      "Community lift irrigation on rivers/streams",
+      "Fuel and installation covered for first year"
+    ],
+    "tags": [
+      "irrigation",
+      "tribal",
+      "farmers",
+      "agriculture",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "farmers",
+      "tribal"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-shiksha",
+    "title": "Mukhyamantri Shiksha Protsahan Yojana",
+    "aka": "Shiksha Protsahan, Education Promotion",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2019,
+    "summary": "State scholarship for SC/ST/OBC students from Class IX to postgraduate reducing dropout rates.",
+    "details": "Monthly scholarship: IX-X Rs 500, XI-XII Rs 750, UG Rs 1,000, PG Rs 1,500, professional Rs 2,000. Family income below Rs 2.5 lakh. Additional to central scholarships.",
+    "key_points": [
+      "Monthly Rs 500-2,000 for SC/ST/OBC students",
+      "Class IX to postgraduate covered",
+      "Income ceiling Rs 2.5 lakh"
+    ],
+    "tags": [
+      "scholarship",
+      "education",
+      "SC/ST/OBC",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "scholarship",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-kanyadan",
+    "title": "Mukhyamantri Kanyadan Yojana",
+    "aka": "Chief Minister Marriage Assistance",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2016,
+    "summary": "One-time marriage assistance to BPL/SC/ST families with higher amount for inter-caste marriages.",
+    "details": "Rs 11,000 for BPL, Rs 15,000 for SC/ST, Rs 25,000 for inter-caste marriages. DBT to bride's account. Aims to reduce wedding burden and prevent child marriage.",
+    "key_points": [
+      "Rs 11,000-25,000 one-time marriage assistance",
+      "Higher Rs 25,000 for inter-caste marriages",
+      "DBT to bride's bank account"
+    ],
+    "tags": [
+      "marriage",
+      "women",
+      "BPL",
+      "SC/ST",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "women",
+      "bpl-families",
+      "tribal"
+    ],
+    "benefit_type": "cash-transfer",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-johar",
+    "title": "Johar Yojana",
+    "aka": "Johar, Tribal Welfare Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Comprehensive PVTG welfare scheme covering education, health, skills, infrastructure, and cultural preservation in Jharkhand.",
+    "details": "Targets 7+ PVTG communities (Birhor, Korwa, Sauria Pahariya, Baiga, Asur, etc.). Educational support, mobile health clinics, skill development, basic infrastructure, cultural preservation. Family Development Plans for each PVTG household.",
+    "key_points": [
+      "Comprehensive PVTG welfare: education, health, skills, infrastructure",
+      "Family Development Plans per PVTG household",
+      "7+ PVTG communities in Jharkhand"
+    ],
+    "tags": [
+      "tribal",
+      "PVTG",
+      "welfare",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "tribal"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-vidyalakshmi",
+    "title": "Mukhyamantri Vidyalakshmi Yojana",
+    "aka": "Vidyalakshmi, Girls Education",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2017,
+    "summary": "Cash transfer for girl child education in Jharkhand government schools from Class I to XII.",
+    "details": "Annual cash transfer: Rs 500 (I-V), Rs 1,000 (VI-VIII), Rs 1,500 (IX-X), Rs 2,000 (XI-XII). 75% attendance condition. DBT to girl's or mother's account.",
+    "key_points": [
+      "Annual cash transfer Rs 500-2,000 for girls Class I-XII",
+      "75% attendance condition",
+      "DBT to girl/mother account"
+    ],
+    "tags": [
+      "girl child",
+      "education",
+      "cash transfer",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "girl-child"
+    ],
+    "benefit_type": "education",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-pashudhan",
+    "title": "Mukhyamantri Pashudhan Yojana",
+    "aka": "Pashudhan Yojana, Livestock Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Livestock development with subsidies for milch animals to BPL families for income generation.",
+    "details": "50% subsidy (up to Rs 20,000) for cow/buffalo, 75% (up to Rs 10,000) for goats, 100% (up to Rs 5,000) for poultry. Free vet check-ups, vaccination, fodder for first year. Linked with milk cooperatives.",
+    "key_points": [
+      "50-100% subsidy for cows, buffaloes, goats, poultry",
+      "Free vet care, vaccination, fodder first year",
+      "Linked with milk cooperatives"
+    ],
+    "tags": [
+      "livestock",
+      "dairy",
+      "farmers",
+      "livelihood",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "farmers",
+      "bpl-families"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-sabla-kishori",
+    "title": "Sabla Kishori Yojana",
+    "aka": "Sabla, Adolescent Girls Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Empowerment programme for adolescent girls aged 11-18 in Jharkhand with nutrition, health education, and life skills.",
+    "details": "Kishori Mandals at Anganwadi level. Supplementary nutrition, health check-ups, life skills training, awareness on child marriage, menstrual hygiene, skill training in tailoring/embroidery.",
+    "key_points": [
+      "Nutrition, health, life skills, vocational training for girls 11-18",
+      "Kishori Mandals at Anganwadi level",
+      "Awareness on child marriage and menstrual hygiene"
+    ],
+    "tags": [
+      "adolescent girls",
+      "nutrition",
+      "life skills",
+      "empowerment",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "girl-child",
+      "youth"
+    ],
+    "benefit_type": "nutrition",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-awas",
+    "title": "Mukhyamantri Awas Yojana",
+    "aka": "MAY, State Housing Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Housing assistance for families not covered under PMAY-Gramin in Jharkhand.",
+    "details": "Rs 1.20-1.30 lakh per house. Gram Sabha selection. Women co-ownership mandatory. House repair Rs 30,000 for old houses. Convergence with SBM (toilet) and JJM (tap water).",
+    "key_points": [
+      "Rs 1.20-1.30 lakh for PMAY-G excluded families",
+      "Gram Sabha selection, women co-ownership",
+      "Convergence with SBM and JJM"
+    ],
+    "tags": [
+      "housing",
+      "rural",
+      "BPL",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "rural",
+      "bpl-families"
+    ],
+    "benefit_type": "housing",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-amba",
+    "title": "AMBA Yojana",
+    "aka": "AMBA, Skill Development for Women",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Skill development and self-employment for women aged 18-45 in Jharkhand with free residential training.",
+    "details": "Free residential training in 10+ trades: tailoring, beauty, food processing, handicrafts, IT, healthcare, retail. 3-6 months with Rs 1,000/month stipend. Toolkit (Rs 5,000), bank loan linkages, placement assistance.",
+    "key_points": [
+      "Free residential training in 10+ trades for women 18-45",
+      "Rs 1,000/month stipend + toolkit",
+      "Placement and bank loan linkage"
+    ],
+    "tags": [
+      "women",
+      "skill development",
+      "self-employment",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-birsa-vidyut",
+    "title": "Birsa Vidyut Yojana",
+    "aka": "Birsa Electricity Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Free electricity connections to uncovered BPL households and 100 units free/month for PVTG households.",
+    "details": "Free metered connections to remaining uncovered BPL. 100 units free/month for PVTGs. Covers internal wiring, meter installation, first month free. Free LED bulbs. Priority to PVTG and LWE areas.",
+    "key_points": [
+      "Free electricity connections to uncovered BPL",
+      "100 units free/month for PVTGs",
+      "Free LED bulbs and first month free"
+    ],
+    "tags": [
+      "electricity",
+      "BPL",
+      "tribal",
+      "PVTG",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "bpl-families",
+      "tribal"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-yuva",
+    "title": "Mukhyamantri Yuva Vikas Yojana",
+    "aka": "Yuva Vikas, Youth Development",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Youth development with Yuva Mitra volunteer network, competitive exam coaching, and entrepreneurship seed funding.",
+    "details": "Yuva Mitra: 50,000 trained volunteers with Rs 500/month honorarium. Free coaching for JPSC, SSC, banking, UPSC. Entrepreneurship seed funding up to Rs 1 lakh. Sports promotion, youth exchange.",
+    "key_points": [
+      "Yuva Mitra network — 50,000 volunteers with honorarium",
+      "Free exam coaching + seed funding up to Rs 1 lakh",
+      "Sports promotion and youth exchange"
+    ],
+    "tags": [
+      "youth",
+      "leadership",
+      "employment",
+      "coaching",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "youth"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-fasal",
+    "title": "Mukhyamantri Fasal Bima Yojana",
+    "aka": "State Crop Insurance Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Jharkhand supplement to PMFBY covering crop losses from wild animal attacks and localised risks.",
+    "details": "Covers damage by elephants, monkeys, wild boars not covered by PMFBY. Also localised calamities. Compensation: paddy Rs 10,000/ha, maize Rs 8,000/ha, pulses Rs 7,000/ha. DBT within 30 days.",
+    "key_points": [
+      "Compensation for wild animal damage (elephants, monkeys)",
+      "Complement to PMFBY for localised risks",
+      "Rs 7,000-10,000/ha compensation"
+    ],
+    "tags": [
+      "crop insurance",
+      "farmers",
+      "wild animal damage",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "farmers"
+    ],
+    "benefit_type": "insurance",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-godhan",
+    "title": "Godhan Yojana",
+    "aka": "Godhan, Cattle Care Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Purchases cow dung at Rs 2/kg for organic fertiliser production, promoting cattle care and rural sanitation.",
+    "details": "Cow dung purchased at Rs 2/kg at Godhan Kendras (gram panchayat level). Processed into vermicompost sold at subsidised rates. Women SHGs operate Kendras. Free vet check-ups, deworming.",
+    "key_points": [
+      "Cow dung purchase at Rs 2/kg for vermicompost",
+      "Godhan Kendras operated by women SHGs",
+      "Free vet check-ups during collection"
+    ],
+    "tags": [
+      "cattle",
+      "organic farming",
+      "women SHG",
+      "waste management",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "farmers"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-birsa-krishi",
+    "title": "Birsa Krishi Yojana",
+    "aka": "Birsa Farming Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2022,
+    "summary": "Comprehensive farmer support with free HYV seeds, fertilisers, pesticides, and soil health services.",
+    "details": "Free HYV seeds for kharif/rabi, free fertiliser kits per SHC recommendations, free bio-pesticides. Mobile advisories. Free soil testing with doorstep collection. Custom hiring centres at 50% subsidy.",
+    "key_points": [
+      "Free HYV seeds, fertilisers, bio-pesticides for small farmers",
+      "Soil testing with doorstep collection",
+      "Custom hiring centres at 50% subsidy"
+    ],
+    "tags": [
+      "farmers",
+      "agriculture",
+      "inputs",
+      "soil health",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "farmers"
+    ],
+    "benefit_type": "in-kind",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-prayag",
+    "title": "Mukhyamantri Prayag Yojana",
+    "aka": "Prayag, Skill Training Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Demand-driven skill training in 200+ trades for unemployed youth with placement guarantee.",
+    "details": "200+ trades: IT, healthcare, retail, hospitality, construction, automotive, solar, drone piloting. 1-6 months with Rs 1,500/month stipend. NSQF certification. 70% placement guarantee. 1 lakh youth/year target.",
+    "key_points": [
+      "200+ job-oriented courses based on industry demand",
+      "Rs 1,500/month stipend + NSQF certification",
+      "70% placement guarantee — 1 lakh youth/year"
+    ],
+    "tags": [
+      "skill training",
+      "youth",
+      "employment",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "youth"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-jal-jeevan-ghar",
+    "title": "Jal Jeevan Hariyali Yojana",
+    "aka": "JJHY, Water Life Green Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2019,
+    "summary": "Integrated water conservation, afforestation, and climate resilience scheme.",
+    "details": "2 lakh water harvesting structures + 50 crore trees target. Check dams, farm ponds, stop dams, rooftop harvesting. Watershed development. Plantation of fruit/timber trees. MGNREGA convergence.",
+    "key_points": [
+      "Integrated water conservation + afforestation + livelihood",
+      "2 lakh water structures + 50 crore trees",
+      "MGNREGA convergence — Gram Sabha action plans"
+    ],
+    "tags": [
+      "water conservation",
+      "afforestation",
+      "climate resilience",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-sinchan",
+    "title": "Mukhyamantri Sinchan Yojana",
+    "aka": "Chief Minister Irrigation Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Subsidised pumpsets, micro-irrigation, and borewells for small and marginal farmers.",
+    "details": "90% subsidy on solar pumps, 75% on electric/diesel pumps. 90% on drip/sprinkler. 100% borewell subsidy in water-scarce blocks (up to Rs 50,000). Priority to SC/ST farmers. 2 lakh additional ha/year irrigation.",
+    "key_points": [
+      "90% subsidy solar pumps, 75% electric pumps",
+      "90% on drip/sprinkler micro-irrigation",
+      "100% borewell in water-scarce blocks"
+    ],
+    "tags": [
+      "irrigation",
+      "solar pump",
+      "micro-irrigation",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "farmers"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-aspirational-block",
+    "title": "Aspirational Blocks Programme",
+    "aka": "ABP, Block Development Programme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2022,
+    "summary": "Accelerated development in most backward blocks with health, education, agriculture, and infrastructure convergence.",
+    "details": "Identifies most backward blocks based on composite indicators. Nodal IAS officer per block. Priority funding from all CSS and state schemes. Monthly dashboard monitoring. Initially 50 blocks.",
+    "key_points": [
+      "Most backward blocks identified for accelerated development",
+      "Nodal IAS officer per block",
+      "Monthly dashboard monitoring"
+    ],
+    "tags": [
+      "block development",
+      "aspirational",
+      "convergence",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "rural",
+      "all"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "jh-mukhyamantri-rajya-patra",
+    "title": "Mukhyamantri Rajya Patra Yojana",
+    "aka": "CM Pension Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "State social pension for destitute elderly, widows, disabled, and bereaved families not covered under NSAP.",
+    "details": "Rs 600/month (Rs 1,000 for 80+). Covers elderly 60+, widows 40+, disabled 40%+, deserted women. Funeral assistance Rs 5,000. Family benefit Rs 20,000 on breadwinner death. Gram Sabha identification + Aadhaar DBT.",
+    "key_points": [
+      "Rs 600/month (Rs 1,000 for 80+) for non-NSAP beneficiaries",
+      "Covers elderly, widows, disabled, deserted women",
+      "Gram Sabha identification + Aadhaar DBT"
+    ],
+    "tags": [
+      "pension",
+      "old age",
+      "widow",
+      "disabled",
+      "jharkhand"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "jharkhand",
+    "ministry": "Govt of Jharkhand",
+    "target_group": [
+      "elderly",
+      "disabled",
+      "women"
+    ],
+    "benefit_type": "pension",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-kalia",
+    "title": "Krushak Assistance for Livelihood and Income Augmentation",
+    "aka": "KALIA, Farmer Support Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Flagship Odisha farmer scheme providing Rs 10,000/year to small/marginal farmers including landless labourers.",
+    "details": "Rs 10,000/year in two instalments (kharif/rabi). Covers landless agri labourers — more inclusive than PM-KISAN. Life insurance Rs 2 lakh. Additional assistance for elderly/disabled farmers. 70+ lakh families benefit.",
+    "key_points": [
+      "Rs 10,000/year to farmers and landless labourers",
+      "More inclusive than PM-KISAN",
+      "Life insurance cover of Rs 2 lakh"
+    ],
+    "tags": [
+      "farmers",
+      "cash transfer",
+      "livelihood",
+      "KALIA",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "farmers",
+      "rural"
+    ],
+    "benefit_type": "cash-transfer",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-mamata",
+    "title": "Mamata Yojana",
+    "aka": "Mamata, Maternity Benefit Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2011,
+    "summary": "Odisha cash transfer scheme for pregnant/lactating women providing Rs 5,000 for first two live births.",
+    "details": "Rs 5,000 in four instalments: Rs 1,500 (early registration), Rs 1,500 (3 ANC), Rs 1,000 (institutional delivery), Rs 1,000 (immunisation). Pradates central PMMVY. State funded.",
+    "key_points": [
+      "Rs 5,000 in four instalments for first two births",
+      "Conditional on registration, ANC, delivery, immunisation",
+      "Predates PMMVY — state funded"
+    ],
+    "tags": [
+      "maternity",
+      "women",
+      "nutrition",
+      "cash transfer",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "cash-transfer",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-kalal",
+    "title": "Biju Kalal Yojana",
+    "aka": "Biju Kalal, Health Insurance for BPL",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Health insurance for BPL families in Odisha providing cashless treatment up to Rs 5 lakh for serious illnesses.",
+    "details": "Rs 5 lakh for serious illnesses (cancer, heart, kidney), Rs 50,000 for general hospitalisation, Rs 5,000 OPD. No age bar, no family cap, pre-existing diseases covered. Free medicines at all govt hospitals.",
+    "key_points": [
+      "Rs 5 lakh for serious illnesses + Rs 50,000 general",
+      "No age bar or family cap",
+      "70+ lakh BPL families covered"
+    ],
+    "tags": [
+      "health insurance",
+      "BPL",
+      "cashless treatment",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "bpl-families",
+      "rural"
+    ],
+    "benefit_type": "insurance",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-pucca",
+    "title": "Biju Pucca Ghar Yojana",
+    "aka": "BPGY, Housing Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2014,
+    "summary": "Housing assistance to rural/urban BPL families not covered under central housing schemes.",
+    "details": "Rs 1.20-1.30 lakh per house. Additional Rs 12,000 for toilet. Women co-ownership mandatory. Two rooms, kitchen, verandah design. Linked with DAY-NRLM SHGs for livelihood. 15+ lakh houses built.",
+    "key_points": [
+      "Rs 1.20-1.30 lakh for uncovered BPL families",
+      "15+ lakh houses constructed",
+      "Women co-ownership mandatory"
+    ],
+    "tags": [
+      "housing",
+      "rural",
+      "BPL",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "rural",
+      "bpl-families"
+    ],
+    "benefit_type": "housing",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-sliver",
+    "title": "Biju Slisha Yojana",
+    "aka": "Biju Education Scholarship",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2013,
+    "summary": "Comprehensive education scholarship for SC/ST/OBC students from Class I to professional courses.",
+    "details": "Maintenance allowance Rs 100-1,500/month. Tuition fee reimbursement up to Rs 25,000/year for professional courses. Textbook grant Rs 500-1,000/year for I-X. Income ceiling Rs 2.5 lakh (SC/ST), Rs 1 lakh (OBC).",
+    "key_points": [
+      "Scholarship from Class I to PhD/professional",
+      "Maintenance Rs 100-1,500/month + tuition reimbursement",
+      "Online e-kalyan portal"
+    ],
+    "tags": [
+      "scholarship",
+      "education",
+      "SC/ST/OBC",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "students",
+      "tribal"
+    ],
+    "benefit_type": "scholarship",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-swasthya",
+    "title": "Biju Swasthya Kalyan Yojana",
+    "aka": "BSKY, Health Assurance Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Universal health assurance for all Odisha residents with enhanced cover up to Rs 10 lakh for women-headed families.",
+    "details": "Rs 5 lakh general cover, Rs 10 lakh for women-headed families. Rs 500/year OPD per person. All hospitalisation. 1+ crore families. Free drugs and diagnostics at all government hospitals for all citizens.",
+    "key_points": [
+      "Universal coverage — all Odisha residents",
+      "Rs 10 lakh for women-headed families",
+      "1+ crore families covered"
+    ],
+    "tags": [
+      "health",
+      "universal coverage",
+      "BSKY",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "all",
+      "rural",
+      "urban"
+    ],
+    "benefit_type": "health",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-ajeevika",
+    "title": "Odisha Aajeevika Yojana",
+    "aka": "Aajeevika, Livelihood Mission",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "State livelihood mission complementing DAY-NRLM with additional funding for SHG-based livelihoods in Odisha.",
+    "details": "SHG formation and federation, revolving fund, community investment fund, interest subvention. Focus on coastal and tribal areas. Additional Odisha-specific livelihood interventions: inland fisheries, cashew processing, lac cultivation.",
+    "key_points": [
+      "SHG-based livelihoods with additional state funding",
+      "Focus on coastal and tribal areas",
+      "Fisheries, cashew, lac cultivation support"
+    ],
+    "tags": [
+      "livelihood",
+      "SHG",
+      "women",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "women",
+      "rural"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-mission-shakti",
+    "title": "Odisha Mission Shakti",
+    "aka": "Mission Shakti, Women Empowerment",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2001,
+    "summary": "Odisha's women empowerment programme predating central version, focusing on SHGs, micro-credit, and women leadership.",
+    "details": "Launched in 2001. Women SHG network of 6+ lakh groups covering 70+ lakh women. Revolving fund, bank linkage, interest subvention. Leadership training, digital literacy. Mission Shakti loan at 0% interest.",
+    "key_points": [
+      "6+ lakh SHGs, 70+ lakh women — launched 2001",
+      "Revolving fund and 0% interest loans",
+      "Leadership training and digital literacy"
+    ],
+    "tags": [
+      "women",
+      "SHG",
+      "empowerment",
+      "micro-credit",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-sikshasandhan",
+    "title": "Sikshasandhan Yojana",
+    "aka": "Sikshasandhan, Education Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2019,
+    "summary": "Education assistance for orphaned, abandoned, and specially-abled children in Odisha covering fees and living expenses.",
+    "details": "Full education expenses including tuition, hostel, books for orphaned/abandoned children. Covers school to professional courses. Monthly living allowance. Special provisions for disabled children.",
+    "key_points": [
+      "Full education expenses for orphaned/abandoned children",
+      "School to professional courses covered",
+      "Monthly living allowance"
+    ],
+    "tags": [
+      "education",
+      "orphans",
+      "disabled",
+      "children",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "children",
+      "disabled"
+    ],
+    "benefit_type": "education",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-madhu-jagruti",
+    "title": "Madhu Jagruti Yojana",
+    "aka": "Madhu Jagruti, Women Safety",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Women safety scheme with awareness campaigns, self-defence training, and emergency response mechanisms.",
+    "details": "Self-defence training for school/college girls. Awareness campaigns on women safety laws (POSCO, domestic violence). Emergency helpline integration. Safe city initiatives in urban Odisha.",
+    "key_points": [
+      "Self-defence training for girls",
+      "Awareness on women safety laws",
+      "Emergency helpline integration"
+    ],
+    "tags": [
+      "women safety",
+      "self-defence",
+      "awareness",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "women",
+      "girl-child"
+    ],
+    "benefit_type": "health",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-jiban",
+    "title": "Jiban Jyoti Yojana",
+    "aka": "Jiban Jyoti, Health Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2014,
+    "summary": "Cashless medical treatment for BPL families in Odisha up to Rs 1.5 lakh per family.",
+    "details": "Rs 1.5 lakh per family annual cover for serious illnesses. Cashless treatment at empanelled hospitals. Covers 120+ diseases including cancer, heart, kidney, brain. Pre-existing diseases covered.",
+    "key_points": [
+      "Rs 1.5 lakh cashless treatment for BPL",
+      "120+ diseases covered",
+      "Pre-existing diseases from day one"
+    ],
+    "tags": [
+      "health",
+      "BPL",
+      "cashless treatment",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "bpl-families"
+    ],
+    "benefit_type": "insurance",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-rashtriya-madhyamik",
+    "title": "Odisha Rashtriya Madhyamik Shiksha",
+    "aka": "Odisha RMSA, Secondary Education",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2009,
+    "summary": "State implementation of RMSA for secondary education access and quality improvement in Odisha.",
+    "details": "State-level secondary education programme. New school opening in unserved areas. Infrastructure upgrade, teacher recruitment, labs, libraries. Focus on girls and SC/ST enrolment. Part of Samagra Shiksha.",
+    "key_points": [
+      "Secondary education access and quality",
+      "Focus on girls and SC/ST enrolment",
+      "Infrastructure upgrade in government schools"
+    ],
+    "tags": [
+      "education",
+      "secondary",
+      "RMSA",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "students",
+      "children"
+    ],
+    "benefit_type": "education",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-mukhya-mantri-rozgar",
+    "title": "Mukhyamantri Roigar Yojana",
+    "aka": "MMRY, Employment Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2016,
+    "summary": "Employment generation through skill training and placement for youth in Odisha.",
+    "details": "Skill training in high-demand sectors: IT, manufacturing, healthcare, tourism, retail. 3-6 month training with stipend. Placement guarantee. Entrepreneurship support. 2 lakh youth trained annually.",
+    "key_points": [
+      "Skill training in IT, manufacturing, healthcare, tourism",
+      "Stipend with placement guarantee",
+      "2 lakh youth trained annually"
+    ],
+    "tags": [
+      "employment",
+      "skill training",
+      "youth",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "youth"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-indiram",
+    "title": "Indiram Gandhi Sarbasatra Yojana",
+    "aka": "IGSY, Rural Housing Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2005,
+    "summary": "Rural housing for SC/ST and BPL families in Odisha predating PMAY-Gramin.",
+    "details": "Housing assistance for SC/ST/BPL families. Rs 50,000-70,000 per unit (pre-PMAY rates). Now subsumed under Biju Pucca Ghar Yojana and PMAY-G. Has contributed significantly to Odisha's rural housing coverage.",
+    "key_points": [
+      "Rural housing for SC/ST/BPL pre-PMAY",
+      "Subsumed under Biju Pucca Ghar/PMAY-G",
+      "Major contribution to Odisha housing coverage"
+    ],
+    "tags": [
+      "housing",
+      "rural",
+      "SC/ST",
+      "BPL",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "rural",
+      "bpl-families",
+      "tribal"
+    ],
+    "benefit_type": "housing",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-vidyut",
+    "title": "Biju Vidyut Yojana",
+    "aka": "Biju Electricity Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Free electricity connections and subsidised power to BPL families in Odisha.",
+    "details": "Free electricity connections to BPL families not covered under central schemes. Subsidised tariff for BPL consumers (Rs 1/unit up to 100 units). Free LED distribution. Solar mini-grids in unelectrified tribal hamlets.",
+    "key_points": [
+      "Free connections + subsidised tariff for BPL",
+      "Rs 1/unit up to 100 units",
+      "Solar mini-grids in tribal hamlets"
+    ],
+    "tags": [
+      "electricity",
+      "BPL",
+      "tribal",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "bpl-families",
+      "tribal"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-krushak",
+    "title": "Biju Krushak Vikas Yojana",
+    "aka": "Biju Krushak, Farmer Welfare",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2015,
+    "summary": "Farmer welfare scheme providing input subsidies, crop loans, and insurance support in Odisha.",
+    "details": "Input subsidy for small/marginal farmers. Interest subsidy on crop loans (2% for timely repayment). Additional support for organic farming. Integrated with KALIA for comprehensive coverage.",
+    "key_points": [
+      "Input subsidy and interest subvention on crop loans",
+      "Additional organic farming support",
+      "Integrated with KALIA"
+    ],
+    "tags": [
+      "farmers",
+      "agriculture",
+      "subsidy",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "farmers"
+    ],
+    "benefit_type": "livelihood",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-net",
+    "title": "Biju Net Yojana",
+    "aka": "Biju Net, Internet Connectivity",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2021,
+    "summary": "Free public WiFi hotspots in gram panchayats and government institutions across Odisha.",
+    "details": "Free WiFi in all 6,800+ gram panchayats. High-speed internet at schools, colleges, hospitals, and panchayat offices. Digital literacy training. Startup incubation support in smaller cities.",
+    "key_points": [
+      "Free WiFi in 6,800+ gram panchayats",
+      "High-speed internet at public institutions",
+      "Digital literacy and startup support"
+    ],
+    "tags": [
+      "internet",
+      "digital connectivity",
+      "WiFi",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "rural",
+      "all"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-mission-basundhara",
+    "title": "Mission Basundhara",
+    "aka": "Basundhara, Land Rights Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Land rights and record digitisation scheme ensuring land titles for all Odisha residents, especially tribals.",
+    "details": "Digitisation of land records. Distribution of land rights to landless families. Special focus on tribal land rights under FRA. Single-window mutation services. Online land record access.",
+    "key_points": [
+      "Land record digitisation and rights distribution",
+      "Special focus on tribal land under FRA",
+      "Single-window mutation services"
+    ],
+    "tags": [
+      "land rights",
+      "tribal",
+      "digitisation",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "tribal",
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-subhadra",
+    "title": "Subhadra Yojana",
+    "aka": "Subhadra, Women Empowerment",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2024,
+    "summary": "Cash transfer scheme for women in Odisha providing Rs 50,000 over 5 years for empowerment and financial independence.",
+    "details": "Rs 10,000 per year (two instalments of Rs 5,000 each) to eligible women aged 21-60 years. DBT to Aadhaar-linked accounts. Coverage of 1+ crore women. Skill training and digital literacy linkages. Funds can be used for small business, health, education.",
+    "key_points": [
+      "Rs 10,000/year for 5 years to women aged 21-60",
+      "DBT to Aadhaar-linked accounts",
+      "1+ crore women covered"
+    ],
+    "tags": [
+      "women",
+      "cash transfer",
+      "empowerment",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "women"
+    ],
+    "benefit_type": "cash-transfer",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-youth",
+    "title": "Biju Yuva Sashaktikaran Yojana",
+    "aka": "Biju Youth Empowerment Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Youth empowerment with leadership training, competitive exam coaching, and entrepreneurship support.",
+    "details": "Leadership camps, free coaching for OPSC/SSC/banking, entrepreneurship seed funding up to Rs 2 lakh, sports infrastructure development, youth exchange programmes. Target: 1 lakh youth annually.",
+    "key_points": [
+      "Leadership training, exam coaching, seed funding",
+      "Seed funding up to Rs 2 lakh",
+      "1 lakh youth targeted annually"
+    ],
+    "tags": [
+      "youth",
+      "leadership",
+      "entrepreneurship",
+      "coaching",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "youth"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-gramin-awas",
+    "title": "Odisha Gramin Awas Yojana",
+    "aka": "OGA, Rural Housing Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Rural housing for families in Odisha outside the BPL category needing housing assistance.",
+    "details": "Housing assistance for families not covered under PMAY-G or Biju Pucca Ghar. Rs 1 lakh per house. Gram Sabha selection. Women co-ownership. Convergence with SBM (toilet).",
+    "key_points": [
+      "Housing for non-BPL rural families needing assistance",
+      "Rs 1 lakh per house — Gram Sabha selection",
+      "Women co-ownership mandatory"
+    ],
+    "tags": [
+      "housing",
+      "rural",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "rural"
+    ],
+    "benefit_type": "housing",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-mukhya-mantri-abadha",
+    "title": "Mukhyamantri Abadha Yojana",
+    "aka": "Abadha, Meals for Poor",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Provides subsidised meals (Rs 5 per plate) to poor and needy at government-run Abadha centres in urban areas.",
+    "details": "Nutritious meals at Rs 5 per plate at Abadha centres in urban areas. Breakfast at Rs 3 for school children (complementing PM POSHAN). Targeting urban poor, migrant workers, daily wage earners. Over 1 crore meals served.",
+    "key_points": [
+      "Rs 5 per plate nutritious meal at Abadha centres",
+      "Rs 3 breakfast for school children",
+      "1+ crore meals served"
+    ],
+    "tags": [
+      "nutrition",
+      "urban poor",
+      "migrant workers",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "urban",
+      "bpl-families",
+      "migrant-workers"
+    ],
+    "benefit_type": "nutrition",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-ocsc",
+    "title": "Odisha Computer Application Centre",
+    "aka": "OCAC, Digital Literacy",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2020,
+    "summary": "Digital literacy and computer training programme for students, youth, and government employees in Odisha.",
+    "details": "Computer training centres in all blocks. Basic and advanced digital literacy courses. Government process automation training. Digital Odisha initiatives. Free courses for SC/ST students.",
+    "key_points": [
+      "Computer training centres in all blocks",
+      "Basic and advanced digital courses",
+      "Free for SC/ST students"
+    ],
+    "tags": [
+      "digital literacy",
+      "computer training",
+      "e-governance",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "students",
+      "youth",
+      "rural"
+    ],
+    "benefit_type": "skill-development",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-bhagirathi",
+    "title": "Bhagirathi Yojana",
+    "aka": "Bhagirathi, Water Supply Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2017,
+    "summary": "Providing piped water supply to rural households in Odisha, complementing Jal Jeevan Mission.",
+    "details": "Piped water supply to uncovered rural habitations. Overhead water tanks, tube wells with pumps, pipeline network. Village-level water committees for maintenance. Water quality testing. Complements JJM with state funding.",
+    "key_points": [
+      "Piped water to uncovered rural habitations",
+      "Water quality testing and village committees",
+      "Complements Jal Jeevan Mission"
+    ],
+    "tags": [
+      "water supply",
+      "rural",
+      "piped water",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "rural"
+    ],
+    "benefit_type": "infrastructure",
+    "source_link": "",
+    "constitutional_basis": ""
+  },
+  {
+    "id": "od-biju-amar",
+    "title": "Biju Amar Yojana",
+    "aka": "Biju Amar, Insurance Scheme",
+    "category": "schemes",
+    "type": "scheme",
+    "year": 2018,
+    "summary": "Accidental death and disability insurance for all Odisha residents aged 18-70.",
+    "details": "Accidental death cover Rs 2 lakh. Permanent disability Rs 2 lakh. Partial disability Rs 1 lakh. Coverage for all residents aged 18-70. Nominal premium funded by state government. 3+ crore beneficiaries.",
+    "key_points": [
+      "Accidental death/disability cover Rs 2 lakh",
+      "Covers all Odisha residents 18-70",
+      "State-funded premium — 3+ crore beneficiaries"
+    ],
+    "tags": [
+      "insurance",
+      "accident",
+      "disability",
+      "odisha"
+    ],
+    "importance": "high",
+    "exam_relevance": true,
+    "state": "odisha",
+    "ministry": "Govt of Odisha",
+    "target_group": [
+      "all"
+    ],
+    "benefit_type": "insurance",
+    "source_link": "",
+    "constitutional_basis": ""
+  }
+]
